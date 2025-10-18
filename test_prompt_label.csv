@@ -1,0 +1,1228 @@
+index	prompt	ingredients/label
+0	I have pork belly, garlic, and chili oil. I want to make something spicy and Sichuan-style.	pork belly, garlic, chili oil
+1	I have chicken thighs, soy sauce, and ginger. I want a simple Chinese home-style dish.	chicken thighs, soy sauce, ginger
+2	I have tofu, bok choy, and mushrooms. I want something light and vegetarian like a soup.	tofu, bok choy, mushrooms
+3	I have beef slices, bell peppers, and onions. I want to make a stir-fry that's slightly spicy.	beef slices, bell peppers, onions
+4	I have shrimp, eggs, and rice. I want something quick like Cantonese fried rice.	shrimp, eggs, rice
+5	I have duck, honey, and five-spice powder. I want to make something aromatic and traditional.	duck, honey, five-spice powder
+6	I have ground pork, napa cabbage, and garlic. I want a northern Chinese dumpling filling idea.	ground pork, napa cabbage, garlic
+7	I have noodles, sesame paste, and cucumber. I want a cold Sichuan-style noodle dish.	noodles, sesame paste, cucumber
+8	I have fish fillet, chili peppers, and bean sprouts. I want to make boiled fish in spicy broth.	fish fillet, chili peppers, bean sprouts
+9	I have tofu skin, peanuts, and vinegar. I want a refreshing cold appetizer.	tofu skin, peanuts, vinegar
+10	I have ribs, soy sauce, and rock sugar. I want to make something sweet and savory like Hong Shao Pai Gu.	ribs, soy sauce, rock sugar
+11	I have eggs, tomatoes, and scallions. I want to make a simple Chinese comfort dish.	eggs, tomatoes, scallions
+12	I have chicken wings, soy sauce, and garlic. I want something sticky and flavorful.	chicken wings, soy sauce, garlic
+13	I have lotus root, chili, and vinegar. I want a crispy, spicy side dish.	lotus root, chili, vinegar
+14	I have beef brisket, daikon, and soy sauce. I want a slow-cooked Cantonese stew.	beef brisket, daikon, soy sauce
+15	I have spinach, garlic, and sesame oil. I want a light vegetable side dish.	spinach, garlic, sesame oil
+16	I have prawns, ginger, and green onions. I want to make a Chinese-style steamed seafood dish.	prawns, ginger, green onions
+17	I have tofu, minced pork, and chili bean paste. I want to make Mapo Tofu.	tofu, minced pork, chili bean paste
+18	I have eggplant, garlic, and soy sauce. I want a spicy Sichuan-style stir-fry.	eggplant, garlic, soy sauce
+19	I have rice, chicken, and oyster sauce. I want something fast like Chinese fried rice.	rice, chicken, oyster sauce
+20	I have pork belly, garlic, and soy sauce. I want to make something spicy and flavorful.	pork belly, garlic, soy sauce
+21	I have chicken breast, ginger, and scallions. I want to cook a simple Chinese stir-fry.	chicken breast, ginger, scallions
+22	I have tofu, chili bean paste, and ground pork. I want to make Mapo Tofu.	tofu, chili bean paste, ground pork
+23	I have beef slices, bell peppers, and onions. I want a quick stir-fry for dinner.	beef slices, bell peppers, onions
+24	I have shrimp, eggs, and rice. I want to make Cantonese-style fried rice.	shrimp, eggs, rice
+25	I have duck, honey, and five-spice powder. I want to roast something aromatic and crispy.	duck, honey, five-spice powder
+26	I have napa cabbage, ground pork, and soy sauce. I want to make dumpling fillings.	napa cabbage, ground pork, soy sauce
+27	I have noodles, sesame paste, and cucumber. I want to make cold Sichuan-style noodles.	noodles, sesame paste, cucumber
+28	I have fish fillet, chili oil, and bean sprouts. I want to make a spicy boiled fish dish.	fish fillet, chili oil, bean sprouts
+29	I have tofu skin, peanuts, and vinegar. I want a refreshing cold appetizer.	tofu skin, peanuts, vinegar
+30	I have ribs, soy sauce, and rock sugar. I want to make braised spare ribs.	ribs, soy sauce, rock sugar
+31	I have eggs, tomatoes, and scallions. I want to make tomato scrambled eggs.	eggs, tomatoes, scallions
+32	I have chicken wings, garlic, and oyster sauce. I want to make sticky glazed wings.	chicken wings, garlic, oyster sauce
+33	I have lotus root, chili, and vinegar. I want a crispy, spicy salad.	lotus root, chili, vinegar
+34	I have beef brisket, daikon, and soy sauce. I want to make a slow-cooked stew.	beef brisket, daikon, soy sauce
+35	I have spinach, garlic, and sesame oil. I want a simple vegetable side dish.	spinach, garlic, sesame oil
+36	I have prawns, ginger, and green onions. I want to steam them Chinese-style.	prawns, ginger, green onions
+37	I have tofu, mushrooms, and bok choy. I want to make a light vegetarian soup.	tofu, mushrooms, bok choy
+38	I have eggplant, garlic, and soy sauce. I want a spicy Sichuan-style stir-fry.	eggplant, garlic, soy sauce
+39	I have rice, chicken, and oyster sauce. I want to make quick fried rice.	rice, chicken, oyster sauce
+40	I have pork ribs, soy sauce, and sugar. I want to make sweet and sour ribs.	pork ribs, soy sauce, sugar
+41	I have beef slices, black pepper, and onions. I want to make black pepper beef.	beef slices, black pepper, onions
+42	I have bok choy, tofu, and soy sauce. I want to make a simple home-style dish.	bok choy, tofu, soy sauce
+43	I have pork, ginger, and chili oil. I want to make something spicy and bold.	pork, ginger, chili oil
+44	I have green beans, garlic, and minced pork. I want to make dry-fried green beans.	green beans, garlic, minced pork
+45	I have chicken legs, soy sauce, and sugar. I want to make red-cooked chicken.	chicken legs, soy sauce, sugar
+46	I have eggs, rice, and ham. I want to make Yangzhou fried rice.	eggs, rice, ham
+47	I have tofu, chili, and garlic. I want to make stir-fried spicy tofu.	tofu, chili, garlic
+48	I have pork belly, fermented black beans, and garlic. I want to make steamed pork with black beans.	pork belly, fermented black beans, garlic
+49	I have beef, soy sauce, and broccoli. I want to make beef with broccoli.	beef, soy sauce, broccoli
+50	I have potatoes, green peppers, and eggplant. I want to make a three-delicacy stir-fry.	potatoes, green peppers, eggplant
+51	I have chicken wings, cola, and soy sauce. I want to make cola chicken.	chicken wings, cola, soy sauce
+52	I have pork, bamboo shoots, and soy sauce. I want to make shredded pork with bamboo shoots.	pork, bamboo shoots, soy sauce
+53	I have cabbage, garlic, and vinegar. I want to make hot and sour cabbage.	cabbage, garlic, vinegar
+54	I have shrimp, peas, and carrots. I want to make quick stir-fried shrimp.	shrimp, peas, carrots
+55	I have tofu, scallions, and sesame oil. I want a cold marinated tofu dish.	tofu, scallions, sesame oil
+56	I have pork slices, garlic, and chili. I want to make twice-cooked pork.	pork slices, garlic, chili
+57	I have chicken breast, peanuts, and chili. I want to make Kung Pao Chicken.	chicken breast, peanuts, chili
+58	I have pork liver, ginger, and scallions. I want to make stir-fried pork liver.	pork liver, ginger, scallions
+59	I have eggplant, ground pork, and chili paste. I want to make fish-flavored eggplant.	eggplant, ground pork, chili paste
+60	I have lotus root, peanuts, and red dates. I want to make a Chinese soup.	lotus root, peanuts, red dates
+61	I have duck, soy sauce, and ginger. I want to make braised duck.	duck, soy sauce, ginger
+62	I have tofu, shrimp, and soy sauce. I want to make tofu with shrimp.	tofu, shrimp, soy sauce
+63	I have beef, potatoes, and onions. I want to make Chinese-style beef stew.	beef, potatoes, onions
+64	I have celery, beef slices, and soy sauce. I want to make stir-fried beef with celery.	celery, beef slices, soy sauce
+65	I have cabbage, pork, and ginger. I want to make dumpling filling ideas.	cabbage, pork, ginger
+66	I have mushrooms, bok choy, and garlic. I want to make a vegetarian stir-fry.	mushrooms, bok choy, garlic
+67	I have pork belly, garlic, and chili paste. I want to make spicy braised pork.	pork belly, garlic, chili paste
+68	I have tofu, spinach, and mushrooms. I want to make a light healthy soup.	tofu, spinach, mushrooms
+69	I have pork, black vinegar, and sugar. I want to make sweet and sour pork.	pork, black vinegar, sugar
+70	I have noodles, soy sauce, and garlic. I want to make quick fried noodles.	noodles, soy sauce, garlic
+71	I have chicken, chili, and peanuts. I want to make a spicy Sichuan dish.	chicken, chili, peanuts
+72	I have pork ribs, lotus root, and ginger. I want to make soup for dinner.	pork ribs, lotus root, ginger
+73	I have eggs, tofu, and tomatoes. I want to make a vegetarian stir-fry.	eggs, tofu, tomatoes
+74	I have pork slices, onions, and soy sauce. I want to make a home-style dish.	pork slices, onions, soy sauce
+75	I have shrimp, garlic, and butter. I want to make Chinese garlic shrimp.	shrimp, garlic, butter
+76	I have tofu skin, carrots, and vinegar. I want a light cold salad.	tofu skin, carrots, vinegar
+77	I have beef, chili oil, and sesame. I want to make spicy beef slices.	beef, chili oil, sesame
+78	I have chicken wings, honey, and soy sauce. I want to make sweet glazed wings.	chicken wings, honey, soy sauce
+79	I have fish fillet, pickled mustard greens, and chili. I want to make Suan Cai Yu.	fish fillet, pickled mustard greens, chili
+80	I have pork, bean sprouts, and soy sauce. I want a quick stir-fry for lunch.	pork, bean sprouts, soy sauce
+81	I have mushrooms, tofu, and soy sauce. I want to make tofu with mushrooms.	mushrooms, tofu, soy sauce
+82	I have duck, orange peel, and soy sauce. I want to make a citrus-flavored duck dish.	duck, orange peel, soy sauce
+83	I have pork belly, sugar, and soy sauce. I want to make Hong Shao Rou.	pork belly, sugar, soy sauce
+84	I have tofu, bok choy, and ginger. I want a light soup for dinner.	tofu, bok choy, ginger
+85	I have beef slices, chili peppers, and soy sauce. I want to make stir-fried beef.	beef slices, chili peppers, soy sauce
+86	I have chicken drumsticks, soy sauce, and garlic. I want to braise them Chinese-style.	chicken drumsticks, soy sauce, garlic
+87	I have eggs, leeks, and vermicelli. I want to make a quick home-style dish.	eggs, leeks, vermicelli
+88	I have shrimp, tofu, and ginger. I want to make steamed tofu with shrimp.	shrimp, tofu, ginger
+89	I have pork ribs, radish, and ginger. I want to make clear pork soup.	pork ribs, radish, ginger
+90	I have chicken breast, chili, and soy sauce. I want to make spicy chicken.	chicken breast, chili, soy sauce
+91	I have tofu, green onions, and sesame oil. I want a cold tofu salad.	tofu, green onions, sesame oil
+92	I have beef, garlic, and oyster sauce. I want to make beef stir-fry.	beef, garlic, oyster sauce
+93	I have pork, black fungus, and eggs. I want to make Mu Shu Pork.	pork, black fungus, eggs
+94	I have chicken, soy sauce, and cornstarch. I want to make tender stir-fried chicken.	chicken, soy sauce, cornstarch
+95	I have tofu, eggplant, and chili oil. I want to make spicy braised tofu.	tofu, eggplant, chili oil
+96	I have pork, green beans, and chili. I want to make dry-fried green beans.	pork, green beans, chili
+97	I have shrimp, soy sauce, and sesame oil. I want to make a quick seafood dish.	shrimp, soy sauce, sesame oil
+98	I have tofu, chili paste, and garlic. I want to make spicy tofu cubes.	tofu, chili paste, garlic
+99	I have beef, green peppers, and onions. I want to make stir-fried beef strips.	beef, green peppers, onions
+100	I have chicken, mushrooms, and soy sauce. I want to make braised chicken with mushrooms.	chicken, mushrooms, soy sauce
+101	I have pork, bamboo shoots, and chili oil. I want to make stir-fried shredded pork.	pork, bamboo shoots, chili oil
+102	I have fish, ginger, and soy sauce. I want to make steamed fish.	fish, ginger, soy sauce
+103	I have tofu, garlic, and chili oil. I want to make Mapo-style tofu.	tofu, garlic, chili oil
+104	I have pork belly, fermented tofu, and sugar. I want to make red braised pork belly.	pork belly, fermented tofu, sugar
+105	I have chicken, sesame seeds, and chili sauce. I want to make spicy sesame chicken.	chicken, sesame seeds, chili sauce
+106	I have beef, broccoli, and garlic. I want to make stir-fried beef with broccoli.	beef, broccoli, garlic
+107	I have tofu, chili, and black beans. I want to make spicy black bean tofu.	tofu, chili, black beans
+108	I have eggs, soy sauce, and scallions. I want to make soy-flavored eggs.	eggs, soy sauce, scallions
+109	I have shrimp, garlic, and glass noodles. I want to make steamed shrimp with vermicelli.	shrimp, garlic, glass noodles
+110	I have pork, pickled vegetables, and chili. I want to make stir-fried pickled pork.	pork, pickled vegetables, chili
+111	I have tofu, cabbage, and mushrooms. I want to make a vegetable stir-fry.	tofu, cabbage, mushrooms
+112	I have chicken, chili peppers, and peanuts. I want to make spicy Kung Pao Chicken.	chicken, chili peppers, peanuts
+113	I have pork, onions, and soy sauce. I want to make shredded pork with onions.	pork, onions, soy sauce
+114	I have beef, carrots, and potatoes. I want to make Chinese-style beef curry.	beef, carrots, potatoes
+115	I have tofu, spinach, and soy sauce. I want to make stir-fried spinach tofu.	tofu, spinach, soy sauce
+116	I have chicken, oyster sauce, and garlic. I want to make savory chicken stir-fry.	chicken, oyster sauce, garlic
+117	I have pork belly, rice wine, and ginger. I want to make braised pork.	pork belly, rice wine, ginger
+118	I have fish, tofu, and chili oil. I want to make spicy fish soup.	fish, tofu, chili oil
+119	I have tofu, soy sauce, and sugar. I want to make braised tofu.	tofu, soy sauce, sugar
+120	I have beef, mushrooms, and onions. I want to make beef with mushrooms.	beef, mushrooms, onions
+121	I have pork, garlic, and soy sauce. I want to make stir-fried shredded pork.	pork, garlic, soy sauce
+122	I have chicken, sesame paste, and chili oil. I want to make cold spicy chicken.	chicken, sesame paste, chili oil
+123	I have shrimp, cucumbers, and vinegar. I want to make a refreshing salad.	shrimp, cucumbers, vinegar
+124	I have tofu, ground pork, and chili sauce. I want to make spicy tofu with meat.	tofu, ground pork, chili sauce
+125	I have beef, chili, and garlic. I want to make hot stir-fried beef.	beef, chili, garlic
+126	I have pork ribs, soy sauce, and honey. I want to make sweet braised ribs.	pork ribs, soy sauce, honey
+127	I have tofu, mushrooms, and chili. I want to make spicy tofu stir-fry.	tofu, mushrooms, chili
+128	I have chicken, potatoes, and soy sauce. I want to make braised chicken with potatoes.	chicken, potatoes, soy sauce
+129	I have tofu. What can I cook quickly for lunch?	tofu
+130	I have pork belly, chili, and garlic. I want something rich and spicy for dinner.	pork belly, chili, garlic
+131	Just chicken and some soy sauce — any quick stir-fry ideas?	chicken, soy sauce
+132	I have shrimp, ginger, and green onions. Want to make something fancy for a weekend dinner.	shrimp, ginger, green onions
+133	I only have eggs and tomatoes. Any classic Chinese dish I can make?	eggs, tomatoes
+134	I got beef and broccoli. I’d like something like a restaurant-style stir-fry.	beef, broccoli
+135	I have tofu and chili oil. Can you suggest a cold dish for summer?	tofu, chili oil
+136	I have pork ribs and honey. Looking for a sweet sticky dish for kids.	pork ribs, honey
+137	Only noodles, soy sauce, and garlic. Need a fast meal.	noodles, soy sauce, garlic
+138	I’ve got chicken thighs and oyster sauce. Something comforting, please.	chicken thighs, oyster sauce
+139	I have tofu skin, carrots, and cucumbers. Want a refreshing cold appetizer.	tofu skin, carrots, cucumbers
+140	I have duck and five-spice. Thinking of something for a holiday dinner.	duck, five-spice
+141	I got shrimp and tofu. Maybe a soft tofu stew?	shrimp, tofu
+142	I have beef, potatoes, and onions. Want something hearty and slow-cooked.	beef, potatoes, onions
+143	Just bok choy and mushrooms. What’s a simple side dish I can make?	bok choy, mushrooms
+144	I have pork slices, bell peppers, and chili. Want something quick and spicy.	pork slices, bell peppers, chili
+145	I have chicken wings and cola. I’d like to make cola chicken.	chicken wings, cola
+146	Only tofu and soy sauce. Anything easy and tasty?	tofu, soy sauce
+147	I have pork, ginger, and garlic. What’s a famous Chinese dish with these?	pork, ginger, garlic
+148	I have fish fillet and chili oil. Want something bold and fiery.	fish fillet, chili oil
+149	I got duck legs. Maybe something festive or roasted?	duck legs
+150	I have beef, onions, and oyster sauce. Want something savory for rice.	beef, onions, oyster sauce
+151	I have noodles, eggs, and green onions. Something quick for breakfast?	noodles, eggs, green onions
+152	I have pork belly, sugar, and soy sauce. Want to make Hong Shao Rou.	pork belly, sugar, soy sauce
+153	Just tofu and chili. Can I still make something interesting?	tofu, chili
+154	I have chicken breast, peanuts, and chili. Want Kung Pao Chicken.	chicken breast, peanuts, chili
+155	I have tofu, mushrooms, and bok choy. Want a vegetarian stir-fry.	tofu, mushrooms, bok choy
+156	I got pork ribs and lotus root. Maybe a nourishing soup.	pork ribs, lotus root
+157	I have shrimp, peas, and carrots. Something colorful and simple.	shrimp, peas, carrots
+158	I have tofu, scallions, and chili oil. I want a cold spicy salad.	tofu, scallions, chili oil
+159	Only beef and black pepper. Quick dinner idea?	beef, black pepper
+160	I have chicken, soy sauce, and garlic. Want a home-style stir-fry.	chicken, soy sauce, garlic
+161	I have tofu, spinach, and mushrooms. Want a light soup.	tofu, spinach, mushrooms
+162	I have beef slices, chili oil, and sesame. I want spicy beef slices.	beef slices, chili oil, sesame
+163	I have pork, soy sauce, and vinegar. Want something sweet and sour.	pork, soy sauce, vinegar
+164	I have shrimp, ginger, and garlic. Want to make a quick seafood dish.	shrimp, ginger, garlic
+165	Just cabbage and pork. Any northern-style ideas?	cabbage, pork
+166	I have tofu and pickled vegetables. Want a simple homestyle dish.	tofu, pickled vegetables
+167	I have eggs, tomatoes, and scallions. Want a comforting meal.	eggs, tomatoes, scallions
+168	I got pork liver and onions. Looking for a stir-fry idea.	pork liver, onions
+169	Only rice and soy sauce. Any Chinese trick to make it better?	rice, soy sauce
+170	I have duck breast, honey, and soy sauce. Want something elegant.	duck breast, honey, soy sauce
+171	I have tofu, sesame paste, and cucumber. Want cold noodles style.	tofu, sesame paste, cucumber
+172	I have beef and chili peppers. I want a fast and spicy dish.	beef, chili peppers
+173	I have chicken legs and mushrooms. Want to braise them Chinese-style.	chicken legs, mushrooms
+174	Only tofu. Make it delicious somehow?	tofu
+175	I have pork, bamboo shoots, and chili. Want something stir-fried.	pork, bamboo shoots, chili
+176	I have noodles, soy sauce, and sesame oil. Want something simple and quick.	noodles, soy sauce, sesame oil
+177	I have shrimp, chili, and garlic. Want spicy fried shrimp.	shrimp, chili, garlic
+178	I have tofu, chili bean paste, and pork. Want Mapo Tofu.	tofu, chili bean paste, pork
+179	I got eggs and green onions. Maybe fried rice?	eggs, green onions
+180	I have pork ribs, rock sugar, and soy sauce. Want to make braised ribs.	pork ribs, rock sugar, soy sauce
+181	Just beef and chili oil. Any Sichuan-style ideas?	beef, chili oil
+182	I have tofu, spinach, and sesame oil. Want something light and healthy.	tofu, spinach, sesame oil
+183	I have chicken, peanuts, and dried chili. Want to make Kung Pao Chicken.	chicken, peanuts, dried chili
+184	Only tofu skin. Any appetizer ideas?	tofu skin
+185	I have pork belly and preserved vegetables. Want Mei Cai Kou Rou.	pork belly, preserved vegetables
+186	I have beef brisket and daikon. Want a Cantonese stew.	beef brisket, daikon
+187	I got shrimp and eggs. Maybe shrimp fried rice?	shrimp, eggs
+188	I have tofu, chili oil, and garlic. Want something spicy and fast.	tofu, chili oil, garlic
+189	I have fish, tofu, and chili. Want spicy fish soup.	fish, tofu, chili
+190	Only noodles and soy sauce. Want a late-night snack.	noodles, soy sauce
+191	I have chicken, chili oil, and sesame seeds. Want spicy sesame chicken.	chicken, chili oil, sesame seeds
+192	I have tofu and mushrooms. Want a vegetarian dish.	tofu, mushrooms
+193	I got pork, onions, and soy sauce. Want something savory and simple.	pork, onions, soy sauce
+194	Just tofu and soy sauce. I’m too tired to cook much.	tofu, soy sauce
+195	I have beef, garlic, and broccoli. Want stir-fried beef with broccoli.	beef, garlic, broccoli
+196	I have shrimp and garlic. Maybe steamed or stir-fried?	shrimp, garlic
+197	I have pork belly, ginger, and rice wine. Want a slow-cooked dish.	pork belly, ginger, rice wine
+198	I have chicken wings, soy sauce, and sugar. Want sticky sweet wings.	chicken wings, soy sauce, sugar
+199	I have tofu and bok choy. Need a quick side dish.	tofu, bok choy
+200	I got beef and bell peppers. Want something colorful and spicy.	beef, bell peppers
+201	I have pork ribs and ginger. Want something to go with rice.	pork ribs, ginger
+202	Only tofu and chili oil. I want something spicy.	tofu, chili oil
+203	I have shrimp, garlic, and butter. Want Chinese-style garlic shrimp.	shrimp, garlic, butter
+204	I got tofu, chili bean paste, and scallions. Want spicy tofu cubes.	tofu, chili bean paste, scallions
+205	I have pork, soy sauce, and sugar. Want something sweet and braised.	pork, soy sauce, sugar
+206	I have chicken breast and broccoli. Want a light stir-fry.	chicken breast, broccoli
+207	Only tofu. Any sauce suggestions?	tofu
+208	I have duck, soy sauce, and ginger. Want something festive.	duck, soy sauce, ginger
+209	I got tofu and peanuts. Want a cold salad.	tofu, peanuts
+210	I have beef slices, chili oil, and sesame paste. Want something Sichuan-style.	beef slices, chili oil, sesame paste
+211	I have pork belly, chili paste, and garlic. Want spicy pork.	pork belly, chili paste, garlic
+212	I have tofu, eggs, and scallions. Want a simple home-style dish.	tofu, eggs, scallions
+213	I got pork ribs and lotus root. Want something nourishing.	pork ribs, lotus root
+214	I have tofu and chili paste. Want a spicy vegetarian dish.	tofu, chili paste
+215	Only eggs and rice. Maybe fried rice?	eggs, rice
+216	I have shrimp, tofu, and soy sauce. Want a light seafood tofu dish.	shrimp, tofu, soy sauce
+217	I have pork, chili, and garlic. Want a spicy home-style dish.	pork, chili, garlic
+218	I have chicken, chili oil, and vinegar. Want a hot and sour flavor.	chicken, chili oil, vinegar
+219	I have beef, soy sauce, and ginger. Want something classic and savory.	beef, soy sauce, ginger
+220	I got tofu skin and vinegar. Want a refreshing cold dish.	tofu skin, vinegar
+221	I have pork, mushrooms, and soy sauce. Want a braised pork dish.	pork, mushrooms, soy sauce
+222	Just noodles and garlic. Quick stir-fry idea?	noodles, garlic
+223	I have beef, onions, and black pepper. Want restaurant-style beef.	beef, onions, black pepper
+224	I have tofu, chili, and soy sauce. Want spicy tofu stir-fry.	tofu, chili, soy sauce
+225	I have pork, green beans, and garlic. Want dry-fried green beans.	pork, green beans, garlic
+226	Only tofu and sesame oil. Can I make something cold and tasty?	tofu, sesame oil
+227	I have chicken, soy sauce, and cornstarch. Want tender chicken stir-fry.	chicken, soy sauce, cornstarch
+228	I got tofu, mushrooms, and chili. Want spicy tofu mushrooms.	tofu, mushrooms, chili
+229	I have pork ribs and honey. Want sweet sticky ribs.	pork ribs, honey
+230	I have shrimp, noodles, and soy sauce. Want seafood noodles.	shrimp, noodles, soy sauce
+231	I have tofu, garlic, and chili oil. Want Mapo-style tofu.	tofu, garlic, chili oil
+232	I have beef, broccoli, and oyster sauce. Want something fast.	beef, broccoli, oyster sauce
+233	I have chicken, potatoes, and soy sauce. Want a braised dish.	chicken, potatoes, soy sauce
+234	Only pork and soy sauce. Any quick meal ideas?	pork, soy sauce
+235	I have tofu and mushrooms. Want something vegetarian and hearty.	tofu, mushrooms
+236	I have pork belly, garlic, and soy sauce. Want braised pork belly.	pork belly, garlic, soy sauce
+237	I have chicken, chili oil, and sesame paste. Want cold spicy chicken.	chicken, chili oil, sesame paste
+238	I have tofu, bok choy, and mushrooms. Want soup.	tofu, bok choy, mushrooms
+239	I have beef, black beans, and garlic. Want black bean beef.	beef, black beans, garlic
+240	I have shrimp, garlic, and vermicelli. Want steamed shrimp.	shrimp, garlic, vermicelli
+241	I got tofu, chili oil, and peanuts. Want a Sichuan-style cold dish.	tofu, chili oil, peanuts
+242	I have pork, chili, and onions. Want stir-fried pork.	pork, chili, onions
+243	I have chicken wings, honey, and soy sauce. Want sweet glazed wings.	chicken wings, honey, soy sauce
+244	I have beef slices, garlic, and chili oil. Want spicy beef slices.	beef slices, garlic, chili oil
+245	Only tofu and soy sauce. Simple but delicious please.	tofu, soy sauce
+246	I have pork ribs, soy sauce, and sugar. Want braised ribs.	pork ribs, soy sauce, sugar
+247	I got shrimp, chili oil, and garlic. Want spicy fried shrimp.	shrimp, chili oil, garlic
+248	I have tofu, mushrooms, and spinach. Want a vegetarian soup.	tofu, mushrooms, spinach
+249	I have beef, chili, and black vinegar. Want a tangy stir-fry.	beef, chili, black vinegar
+250	I have chicken, garlic, and chili. Want a spicy home-style dish.	chicken, garlic, chili
+251	I got pork, pickled vegetables, and chili. Want stir-fried pickled pork.	pork, pickled vegetables, chili
+252	I have tofu and chili bean paste. Want spicy tofu stir-fry.	tofu, chili bean paste
+253	I have pork, soy sauce, and chili. Want something bold and fast.	pork, soy sauce, chili
+254	I have shrimp, eggs, and scallions. Want fried rice.	shrimp, eggs, scallions
+255	I have tofu and sesame paste. Want cold noodles style.	tofu, sesame paste
+256	Only tofu. Want a quick healthy lunch.	tofu
+257	I have pork belly, sugar, and soy sauce. Want something rich and slow-cooked.	pork belly, sugar, soy sauce
+258	I got beef, onions, and chili. Want a fast spicy dish.	beef, onions, chili
+259	I have tofu, bok choy, and mushrooms. Want a soup or stir-fry.	tofu, bok choy, mushrooms
+260	I have chicken, chili, and garlic. Want a hot and spicy stir-fry.	chicken, chili, garlic
+261	I have tofu skin, vinegar, and sesame oil. Want a cold appetizer.	tofu skin, vinegar, sesame oil
+262	I have pork, chili oil, and ginger. Want something fiery.	pork, chili oil, ginger
+263	I got beef, garlic, and black beans. Want black bean stir-fry.	beef, garlic, black beans
+264	I have tofu, mushrooms, and garlic. Want vegetarian stir-fry.	tofu, mushrooms, garlic
+265	I have shrimp, garlic, and soy sauce. Want something quick for dinner.	shrimp, garlic, soy sauce
+266	Only tofu. Any creative Chinese dish idea?	tofu
+267	I have pork belly, rice wine, and soy sauce. Want to make braised pork.	pork belly, rice wine, soy sauce
+268	I have tofu, chili paste, and garlic. Want spicy tofu cubes.	tofu, chili paste, garlic
+269	I have chicken, peanuts, and chili peppers. Want Kung Pao Chicken.	chicken, peanuts, chili peppers
+270	I got tofu and spinach. Want a light vegetarian dish.	tofu, spinach
+271	I have beef, mushrooms, and soy sauce. Want a savory beef stir-fry.	beef, mushrooms, soy sauce
+272	I have pork ribs, lotus root, and ginger. Want soup for lunch.	pork ribs, lotus root, ginger
+273	I have tofu and chili oil. Want something spicy and cold.	tofu, chili oil
+274	Only noodles. Any idea for a fast Chinese dish?	noodles
+275	I have chicken breast and chili. Want spicy chicken stir-fry.	chicken breast, chili
+276	I have tofu, soy sauce, and sesame oil. Want something quick and vegetarian.	tofu, soy sauce, sesame oil
+277	I have beef slices and chili oil. Want something fiery.	beef slices, chili oil
+278	I got tofu and mushrooms. Want to make a soup.	tofu, mushrooms
+279	I have pork, soy sauce, and garlic. Want a stir-fry.	pork, soy sauce, garlic
+280	I have shrimp and tofu. Want a light dish.	shrimp, tofu
+281	I have tofu, chili paste, and scallions. Want spicy tofu cubes.	tofu, chili paste, scallions
+282	I have chicken, soy sauce, and ginger. Want a home-style chicken.	chicken, soy sauce, ginger
+283	I have pork belly, chili oil, and garlic. Want a rich spicy dish.	pork belly, chili oil, garlic
+284	I have tofu, mushrooms, and bok choy. Want vegetarian soup.	tofu, mushrooms, bok choy
+285	I have beef, garlic, and soy sauce. Want stir-fried beef.	beef, garlic, soy sauce
+286	I have tofu and chili oil. Want something cold and spicy.	tofu, chili oil
+287	Only tofu. Any sauce ideas?	tofu
+288	I have pork ribs, soy sauce, and sugar. Want braised ribs for dinner.	pork ribs, soy sauce, sugar
+289	I have chicken, chili, and peanuts. Want spicy Kung Pao Chicken.	chicken, chili, peanuts
+290	I got tofu, spinach, and sesame oil. Want a cold salad.	tofu, spinach, sesame oil
+291	I have pork belly, ginger, and rice wine. Want red-braised pork.	pork belly, ginger, rice wine
+292	I have shrimp, tofu, and garlic. Want seafood tofu soup.	shrimp, tofu, garlic
+293	I have beef, chili, and onions. Want stir-fried beef strips.	beef, chili, onions
+294	I have tofu, soy sauce, and chili. Want spicy tofu stir-fry.	tofu, soy sauce, chili
+295	I got chicken, mushrooms, and garlic. Want braised chicken with mushrooms.	chicken, mushrooms, garlic
+296	I have tofu, chili bean paste, and pork. Want Mapo Tofu.	tofu, chili bean paste, pork
+297	I have beef, broccoli, and soy sauce. Want stir-fried beef and broccoli.	beef, broccoli, soy sauce
+298	I have tofu and mushrooms. Want vegetarian stir-fry.	tofu, mushrooms
+299	I'm feeling lazy tonight. I only have tofu and soy sauce — what’s the easiest thing I can make?	tofu, soy sauce
+300	I’ve got pork belly, chili oil, and garlic. I want something bold, spicy, and comforting.	pork belly, chili oil, garlic
+301	Only chicken thighs and green onions in my fridge. Any fast Chinese recipe?	chicken thighs, green onions
+302	I just bought fresh shrimp and ginger. Want something fancy but not too hard.	shrimp, ginger
+303	Got tofu and chili bean paste. Maybe Mapo Tofu tonight?	tofu, chili bean paste
+304	I have beef slices, bell peppers, and soy sauce. Want a quick dinner with rice.	beef slices, bell peppers, soy sauce
+305	Just pork and cabbage left. Can I make dumplings or a stir-fry?	pork, cabbage
+306	I’ve got noodles, soy sauce, and sesame oil. Something quick for a midnight snack?	noodles, soy sauce, sesame oil
+307	I have duck and five-spice powder. Want something that feels festive for family dinner.	duck, five-spice powder
+308	Only tofu and garlic. I’m starving — give me something fast.	tofu, garlic
+309	I have pork ribs, honey, and soy sauce. Need something sticky and sweet for kids.	pork ribs, honey, soy sauce
+310	Got chicken breast, chili, and peanuts. Thinking about Kung Pao Chicken.	chicken breast, chili, peanuts
+311	I’ve got beef brisket and daikon. Want something slow-cooked for Sunday lunch.	beef brisket, daikon
+312	I have tofu, bok choy, and mushrooms. Maybe a soup for a light dinner?	tofu, bok choy, mushrooms
+313	Only eggs and tomatoes. Want a simple comfort dish.	eggs, tomatoes
+314	I have pork belly and chili oil. Want something spicy and rich.	pork belly, chili oil
+315	Got shrimp and tofu. What’s a Chinese-style combo for that?	shrimp, tofu
+316	I’ve got chicken wings, soy sauce, and garlic. Something finger-licking for a party?	chicken wings, soy sauce, garlic
+317	Just tofu and sesame oil. Any cold dish idea?	tofu, sesame oil
+318	I have beef, onions, and oyster sauce. Want a quick stir-fry for two.	beef, onions, oyster sauce
+319	Got pork ribs and lotus root. Need a homestyle soup idea.	pork ribs, lotus root
+320	I have tofu skin, peanuts, and chili oil. Want something refreshing for summer.	tofu skin, peanuts, chili oil
+321	Only noodles, soy sauce, and garlic. Need something quick for lunch break.	noodles, soy sauce, garlic
+322	I’ve got chicken, soy sauce, and ginger. What’s a classic Chinese recipe?	chicken, soy sauce, ginger
+323	I have pork, mushrooms, and bamboo shoots. Want a stir-fry that goes with rice.	pork, mushrooms, bamboo shoots
+324	Got tofu and chili paste. Want something spicy but vegetarian.	tofu, chili paste
+325	I have beef, chili, and garlic. Want something hot and fast.	beef, chili, garlic
+326	Only tofu left. What’s the best sauce to make it taste good?	tofu
+327	I have pork belly, sugar, and soy sauce. Want to make Hong Shao Rou again.	pork belly, sugar, soy sauce
+328	I’ve got shrimp, garlic, and scallions. Maybe fried rice?	shrimp, garlic, scallions
+329	Got chicken thighs, soy sauce, and sugar. Want a home-style braised dish.	chicken thighs, soy sauce, sugar
+330	I have tofu and spinach. Want a light lunch idea.	tofu, spinach
+331	Just beef and broccoli. Any quick recipe like in restaurants?	beef, broccoli
+332	Got pork, chili oil, and garlic. Want something Sichuan-style.	pork, chili oil, garlic
+333	I have duck, honey, and soy sauce. Need a dish for a family gathering.	duck, honey, soy sauce
+334	I’ve got tofu and mushrooms. Want something warm and savory.	tofu, mushrooms
+335	I have beef, green peppers, and onions. Need a colorful stir-fry.	beef, green peppers, onions
+336	Only eggs and scallions. Want something quick and filling.	eggs, scallions
+337	I have shrimp, garlic, and vermicelli. Want a steamed dish.	shrimp, garlic, vermicelli
+338	I have tofu, chili oil, and peanuts. Want a cold spicy salad.	tofu, chili oil, peanuts
+339	I’ve got pork ribs, soy sauce, and sugar. Want something braised.	pork ribs, soy sauce, sugar
+340	Got chicken breast and chili paste. Need a fast stir-fry.	chicken breast, chili paste
+341	I have tofu and bok choy. Want a soup before bed.	tofu, bok choy
+342	I’ve got pork, garlic, and chili. Want a spicy dinner.	pork, garlic, chili
+343	Just tofu and soy sauce. Any lazy day recipe?	tofu, soy sauce
+344	I have beef slices, chili oil, and sesame. Want something fiery.	beef slices, chili oil, sesame
+345	Got chicken, mushrooms, and soy sauce. Want something hearty and saucy.	chicken, mushrooms, soy sauce
+346	I have tofu, garlic, and chili oil. Want spicy tofu cubes.	tofu, garlic, chili oil
+347	I have shrimp, eggs, and rice. Want something fast like fried rice.	shrimp, eggs, rice
+348	I’ve got pork belly and chili paste. Want a rich spicy stir-fry.	pork belly, chili paste
+349	Only tofu. Something refreshing please.	tofu
+350	I have chicken, peanuts, and chili peppers. Want to make Kung Pao Chicken again.	chicken, peanuts, chili peppers
+351	Got beef and onions. Need a quick stir-fry for lunch.	beef, onions
+352	I’ve got tofu, mushrooms, and soy sauce. Want something vegetarian.	tofu, mushrooms, soy sauce
+353	I have pork ribs, lotus root, and ginger. Want soup for dinner.	pork ribs, lotus root, ginger
+354	Only noodles. Maybe something like sesame noodles?	noodles
+355	I have tofu, chili paste, and scallions. Want spicy tofu cubes.	tofu, chili paste, scallions
+356	Got chicken wings, honey, and soy sauce. Need a sticky party dish.	chicken wings, honey, soy sauce
+357	I have beef, chili, and garlic. Want stir-fried beef strips.	beef, chili, garlic
+358	Only tofu and chili oil. I’m craving something spicy.	tofu, chili oil
+359	I’ve got pork, bamboo shoots, and soy sauce. Want shredded pork dish.	pork, bamboo shoots, soy sauce
+360	I have shrimp, garlic, and butter. Want Chinese-style garlic shrimp.	shrimp, garlic, butter
+361	Got tofu, spinach, and sesame oil. Want a cold salad.	tofu, spinach, sesame oil
+362	I have chicken, chili oil, and sesame paste. Want cold spicy chicken.	chicken, chili oil, sesame paste
+363	I have beef, broccoli, and soy sauce. Want restaurant-style stir-fry.	beef, broccoli, soy sauce
+364	I have tofu, mushrooms, and bok choy. Want soup for lunch.	tofu, mushrooms, bok choy
+365	Got pork belly, ginger, and rice wine. Want red-braised pork.	pork belly, ginger, rice wine
+366	Only tofu and soy sauce. Want an easy meal.	tofu, soy sauce
+367	I have chicken, chili, and garlic. Want spicy chicken stir-fry.	chicken, chili, garlic
+368	I have beef, onions, and soy sauce. Need something quick after work.	beef, onions, soy sauce
+369	Got tofu skin, carrots, and vinegar. Want a cold salad.	tofu skin, carrots, vinegar
+370	I’ve got shrimp, chili oil, and garlic. Want something bold.	shrimp, chili oil, garlic
+371	I have tofu, chili bean paste, and pork. Want Mapo Tofu again.	tofu, chili bean paste, pork
+372	Only tofu and mushrooms. What can I make that’s not boring?	tofu, mushrooms
+373	I have pork, soy sauce, and sugar. Want sweet braised pork.	pork, soy sauce, sugar
+374	Got chicken, oyster sauce, and garlic. Want savory stir-fry.	chicken, oyster sauce, garlic
+375	I have beef, chili, and black vinegar. Want a tangy dish.	beef, chili, black vinegar
+376	I have tofu, bok choy, and mushrooms. Want soup.	tofu, bok choy, mushrooms
+377	I’ve got pork ribs and honey. Want something sweet for dinner.	pork ribs, honey
+378	I have shrimp, tofu, and soy sauce. Want a light meal.	shrimp, tofu, soy sauce
+379	Got chicken, soy sauce, and ginger. Want a quick comfort dish.	chicken, soy sauce, ginger
+380	Only tofu. Can I make something delicious in 10 minutes?	tofu
+381	I have pork belly, chili oil, and garlic. Want a bold spicy dinner.	pork belly, chili oil, garlic
+382	I have tofu, chili paste, and scallions. Want a vegetarian stir-fry.	tofu, chili paste, scallions
+383	Got beef, chili oil, and sesame. Want spicy beef slices.	beef, chili oil, sesame
+384	I have chicken wings, soy sauce, and sugar. Want sticky wings.	chicken wings, soy sauce, sugar
+385	Only tofu and soy sauce. Something light for lunch?	tofu, soy sauce
+386	I have shrimp, garlic, and noodles. Want seafood noodles.	shrimp, garlic, noodles
+387	Got pork ribs, soy sauce, and ginger. Want braised ribs.	pork ribs, soy sauce, ginger
+388	I have tofu, mushrooms, and chili. Want spicy tofu stir-fry.	tofu, mushrooms, chili
+389	I’ve got beef, onions, and garlic. Want a simple stir-fry.	beef, onions, garlic
+390	Only tofu. Any Chinese comfort dish?	tofu
+391	I have pork belly, soy sauce, and rice wine. Want slow-cooked pork.	pork belly, soy sauce, rice wine
+392	Got tofu and chili oil. Want a cold spicy appetizer.	tofu, chili oil
+393	I have chicken, peanuts, and chili. Want something like Kung Pao Chicken.	chicken, peanuts, chili
+394	I have beef, chili, and black beans. Want black bean beef.	beef, chili, black beans
+395	Got tofu, mushrooms, and garlic. Want vegetarian stir-fry.	tofu, mushrooms, garlic
+396	Only tofu. What’s the simplest sauce I can use?	tofu
+397	I have pork ribs, soy sauce, and sugar. Want a home-style braised dish.	pork ribs, soy sauce, sugar
+398	I have chicken, chili, and sesame. Want a spicy sesame chicken.	chicken, chili, sesame
+399	Got beef, broccoli, and oyster sauce. Want something quick for lunch.	beef, broccoli, oyster sauce
+400	I have tofu, chili, and soy sauce. Want spicy tofu stir-fry.	tofu, chili, soy sauce
+401	I’ve got pork belly, chili oil, and garlic. Want red-braised pork.	pork belly, chili oil, garlic
+402	Only tofu and chili oil. Want a cold spicy dish.	tofu, chili oil
+403	I have chicken wings, honey, and soy sauce. Want sweet glazed wings.	chicken wings, honey, soy sauce
+404	Got shrimp, garlic, and scallions. Want fried rice.	shrimp, garlic, scallions
+405	I have tofu, mushrooms, and bok choy. Want soup.	tofu, mushrooms, bok choy
+406	Only tofu. Can I make something cold?	tofu, soy sauce
+407	I have pork, soy sauce, and garlic. Want a stir-fry.	pork, soy sauce, garlic
+408	Got chicken, mushrooms, and soy sauce. Want braised chicken.	chicken, mushrooms, soy sauce
+409	I have tofu, chili bean paste, and pork. Want spicy tofu.	tofu, chili bean paste, pork
+410	Only noodles. Need something fast.	noodles
+411	I have shrimp, tofu, and soy sauce. Want light dinner.	shrimp, tofu, soy sauce
+412	I’ve got beef, chili oil, and sesame. Want spicy beef.	beef, chili oil, sesame
+413	I have tofu, garlic, and chili. Want spicy tofu stir-fry.	tofu, garlic, chili
+414	Got pork, soy sauce, and ginger. Want a home-style dish.	pork, soy sauce, ginger
+415	I have tofu, spinach, and sesame oil. Want salad.	tofu, spinach, sesame oil
+416	Only tofu and soy sauce. Any quick dish?	tofu, soy sauce
+417	I have chicken, soy sauce, and garlic. Want simple stir-fry.	chicken, soy sauce, garlic
+418	Got beef and broccoli. Want Chinese takeout style.	beef, broccoli
+419	I have tofu and chili oil. Want spicy appetizer.	tofu, chili oil
+420	I have pork ribs, soy sauce, and sugar. Want braised ribs.	pork ribs, soy sauce, sugar
+421	Got tofu, mushrooms, and soy sauce. Want vegetarian stir-fry.	tofu, mushrooms, soy sauce
+422	Only tofu. Any healthy recipe?	tofu
+423	I have chicken, chili, and soy sauce. Want spicy stir-fry.	chicken, chili, soy sauce
+424	I’ve got beef, garlic, and black pepper. Want a bold dish.	beef, garlic, black pepper
+425	I have tofu and bok choy. Want light soup.	tofu, bok choy
+426	Only tofu and soy sauce. I’m too tired to cook.	tofu, soy sauce
+427	Got pork, chili oil, and garlic. Want spicy pork stir-fry.	pork, chili oil, garlic
+428	I have chicken wings, soy sauce, and honey. Want sticky wings.	chicken wings, soy sauce, honey
+429	I have tofu, mushrooms, and chili. Want a spicy vegetarian dish.	tofu, mushrooms, chili
+430	Got beef, onions, and soy sauce. Want a stir-fry for two.	beef, onions, soy sauce
+431	Only tofu. Need something quick.	tofu
+432	I have pork ribs, ginger, and soy sauce. Want soup.	pork ribs, ginger, soy sauce
+433	I have chicken, chili, and peanuts. Want Kung Pao Chicken.	chicken, chili, peanuts
+434	I have tofu, soy sauce, and chili oil. Want spicy cold dish.	tofu, soy sauce, chili oil
+435	Got beef, garlic, and chili. Want fiery stir-fry.	beef, garlic, chili
+436	Only tofu. Something cold for lunch.	tofu
+437	I have pork, bamboo shoots, and chili. Want spicy shredded pork.	pork, bamboo shoots, chili
+438	Got chicken, mushrooms, and soy sauce. Want comfort food.	chicken, mushrooms, soy sauce
+439	I have tofu, chili paste, and scallions. Want spicy tofu cubes.	tofu, chili paste, scallions
+440	I have shrimp, garlic, and soy sauce. Want seafood stir-fry.	shrimp, garlic, soy sauce
+441	Only tofu. Quick dish idea?	tofu
+442	I have pork belly, sugar, and soy sauce. Want red-braised pork.	pork belly, sugar, soy sauce
+443	Got tofu and chili oil. Want cold appetizer.	tofu, chili oil
+444	I have chicken, chili, and garlic. Want spicy chicken stir-fry.	chicken, chili, garlic
+445	I have beef, chili, and sesame. Want fiery beef.	beef, chili, sesame
+446	Only tofu. Want something refreshing.	tofu
+447	Got pork ribs, soy sauce, and sugar. Want braised ribs.	pork ribs, soy sauce, sugar
+448	I have tofu, mushrooms, and chili. Want spicy stir-fry.	tofu, mushrooms, chili
+449	I just came home from work. I’ve got tofu and chili oil — what’s the fastest thing I can make?	tofu, chili oil
+450	Cooking for two tonight. I have pork belly, soy sauce, and garlic. Maybe something comforting?	pork belly, soy sauce, garlic
+451	Only chicken wings and honey in the fridge. Can I still make something nice?	chicken wings, honey
+452	I’ve got shrimp, ginger, and scallions. Want something light but special for a dinner date.	shrimp, ginger, scallions
+453	My fridge has tofu, mushrooms, and bok choy. I need something cozy for a rainy day.	tofu, mushrooms, bok choy
+454	I have pork ribs and soy sauce. Want to make something that feels like home.	pork ribs, soy sauce
+455	I’m feeling lazy. Only tofu and soy sauce — 10-minute recipe please.	tofu, soy sauce
+456	Hosting a small dinner. Have beef, onions, and broccoli. Want a crowd-pleaser.	beef, onions, broccoli
+457	Got chicken, chili, and peanuts. Thinking about Kung Pao Chicken for friends.	chicken, chili, peanuts
+458	I’ve got tofu and chili bean paste. Spicy sounds good tonight.	tofu, chili bean paste
+459	Just rice, eggs, and scallions. Can I make something filling and fast?	rice, eggs, scallions
+460	I have beef, garlic, and oyster sauce. Need a quick lunch idea.	beef, garlic, oyster sauce
+461	Only tofu. Anything cold and tasty for summer?	tofu
+462	I have pork belly, chili, and soy sauce. Want to make something rich and spicy.	pork belly, chili, soy sauce
+463	I’ve got shrimp, tofu, and soy sauce. Need a light dinner.	shrimp, tofu, soy sauce
+464	Got chicken thighs, garlic, and soy sauce. Something cozy for a night in.	chicken thighs, garlic, soy sauce
+465	I have tofu, chili oil, and scallions. Want a cold appetizer.	tofu, chili oil, scallions
+466	My fridge is almost empty. Only noodles, soy sauce, and garlic.	noodles, soy sauce, garlic
+467	I have beef brisket and daikon. Want to make a stew for Sunday.	beef brisket, daikon
+468	Just tofu and sesame oil. What’s the simplest cold dish?	tofu, sesame oil
+469	Got pork ribs, honey, and soy sauce. Want sticky sweet ribs.	pork ribs, honey, soy sauce
+470	I have chicken wings and soy sauce. Need something savory and quick.	chicken wings, soy sauce
+471	Only tofu and chili paste. Spicy vegetarian option?	tofu, chili paste
+472	I have beef, onions, and chili oil. Want something fast but bold.	beef, onions, chili oil
+473	Got tofu, mushrooms, and bok choy. Maybe soup?	tofu, mushrooms, bok choy
+474	I’ve got pork belly, sugar, and soy sauce. Want Hong Shao Rou again.	pork belly, sugar, soy sauce
+475	Just tofu and soy sauce. Lazy day meal?	tofu, soy sauce
+476	I have shrimp, garlic, and chili. Want a spicy seafood dish.	shrimp, garlic, chili
+477	Cooking for family tonight. I have chicken, mushrooms, and soy sauce.	chicken, mushrooms, soy sauce
+478	Got tofu, spinach, and sesame oil. Want a cold salad for lunch.	tofu, spinach, sesame oil
+479	I have beef, broccoli, and soy sauce. Need a 10-minute stir-fry.	beef, broccoli, soy sauce
+480	Only tofu and chili oil. Something quick and spicy please.	tofu, chili oil
+481	I have pork, ginger, and soy sauce. Want something traditional.	pork, ginger, soy sauce
+482	I’ve got tofu and chili paste. Want Mapo Tofu style dish.	tofu, chili paste
+483	Got chicken, soy sauce, and sugar. Maybe something sweet and sticky.	chicken, soy sauce, sugar
+484	I have tofu, mushrooms, and garlic. Want a cozy dinner.	tofu, mushrooms, garlic
+485	Only noodles and soy sauce. Need something fast before bed.	noodles, soy sauce
+486	I have beef, chili, and garlic. Want something fiery.	beef, chili, garlic
+487	Got shrimp and eggs. Thinking of fried rice.	shrimp, eggs
+488	I have tofu, chili oil, and peanuts. Want a cold spicy salad.	tofu, chili oil, peanuts
+489	I’ve got pork ribs, soy sauce, and sugar. Need a braised dish.	pork ribs, soy sauce, sugar
+490	Only tofu and sesame oil. Cold side dish idea?	tofu, sesame oil
+491	Got chicken, chili, and soy sauce. Want spicy stir-fry.	chicken, chili, soy sauce
+492	I have beef, onions, and oyster sauce. Need dinner in 15 minutes.	beef, onions, oyster sauce
+493	I’ve got tofu, mushrooms, and spinach. Maybe soup for tonight.	tofu, mushrooms, spinach
+494	Only tofu. Any simple Chinese sauce idea?	tofu
+495	I have pork belly, chili oil, and garlic. Want something bold and rich.	pork belly, chili oil, garlic
+496	Got chicken, peanuts, and chili. Want Kung Pao Chicken again.	chicken, peanuts, chili
+497	I have tofu and chili paste. Want a fast vegetarian dish.	tofu, chili paste
+498	Just noodles, soy sauce, and garlic. Need a quick snack.	noodles, soy sauce, garlic
+499	I have pork, mushrooms, and soy sauce. Want a home-style stir-fry.	pork, mushrooms, soy sauce
+500	Got shrimp, tofu, and chili oil. Want spicy seafood tofu.	shrimp, tofu, chili oil
+501	Only tofu and soy sauce. I want something easy and warm.	tofu, soy sauce
+502	I’ve got chicken wings, soy sauce, and honey. Want sweet wings.	chicken wings, soy sauce, honey
+503	I have beef, chili, and onions. Need a quick stir-fry.	beef, chili, onions
+504	Got tofu, mushrooms, and garlic. Want vegetarian stir-fry.	tofu, mushrooms, garlic
+505	Cooking for myself. Have pork and chili oil. Want something spicy.	pork, chili oil
+506	I have tofu, chili bean paste, and pork. Want to make Mapo Tofu.	tofu, chili bean paste, pork
+507	Only tofu and sesame oil. Need a healthy dish.	tofu, sesame oil
+508	I have chicken, soy sauce, and ginger. Want a simple classic.	chicken, soy sauce, ginger
+509	Got beef and broccoli. Want takeout-style stir-fry.	beef, broccoli
+510	I’ve got tofu, mushrooms, and chili. Want spicy vegetarian dish.	tofu, mushrooms, chili
+511	Only tofu. Cold lunch idea?	tofu
+512	I have pork belly, soy sauce, and sugar. Want red-braised pork.	pork belly, soy sauce, sugar
+513	Got tofu, chili oil, and scallions. Want cold spicy appetizer.	tofu, chili oil, scallions
+514	I have shrimp, garlic, and noodles. Want seafood noodles.	shrimp, garlic, noodles
+515	Cooking for my parents tonight. I have chicken, ginger, and soy sauce.	chicken, ginger, soy sauce
+516	Only tofu and soy sauce. What’s a nice homestyle recipe?	tofu, soy sauce
+517	I have beef slices, garlic, and chili oil. Want a spicy dish.	beef slices, garlic, chili oil
+518	Got tofu, mushrooms, and bok choy. Need soup for dinner.	tofu, mushrooms, bok choy
+519	I’ve got pork ribs, soy sauce, and sugar. Want braised ribs.	pork ribs, soy sauce, sugar
+520	Only tofu and chili oil. Want a cold dish.	tofu, chili oil
+521	I have chicken, chili, and garlic. Want spicy chicken stir-fry.	chicken, chili, garlic
+522	Got tofu, mushrooms, and soy sauce. Want a fast vegetarian stir-fry.	tofu, mushrooms, soy sauce
+523	Cooking for friends tonight. I have beef, onions, and soy sauce.	beef, onions, soy sauce
+524	Only tofu. Want a 5-minute dish.	tofu
+525	I have pork belly, chili oil, and garlic. Want a bold spicy meal.	pork belly, chili oil, garlic
+526	Got tofu and chili paste. Need something vegetarian and flavorful.	tofu, chili paste
+527	I have shrimp, garlic, and soy sauce. Want quick seafood stir-fry.	shrimp, garlic, soy sauce
+528	I’ve got tofu, mushrooms, and chili oil. Want spicy tofu cubes.	tofu, mushrooms, chili oil
+529	Only tofu. Simple lunch idea?	tofu
+530	I have chicken, soy sauce, and cornstarch. Want soft tender chicken stir-fry.	chicken, soy sauce, cornstarch
+531	Got beef, broccoli, and oyster sauce. Want something savory.	beef, broccoli, oyster sauce
+532	I have tofu, spinach, and sesame oil. Want a cold salad.	tofu, spinach, sesame oil
+533	Cooking for myself. Only tofu and soy sauce.	tofu, soy sauce
+534	Got pork ribs and honey. Want something sweet.	pork ribs, honey
+535	I have tofu, chili oil, and garlic. Want spicy appetizer.	tofu, chili oil, garlic
+536	I’ve got beef, onions, and soy sauce. Need quick stir-fry.	beef, onions, soy sauce
+537	Only tofu. What can I make in 10 minutes?	tofu
+538	I have chicken, peanuts, and chili. Want Kung Pao Chicken.	chicken, peanuts, chili
+539	Got tofu, mushrooms, and bok choy. Want vegetarian soup.	tofu, mushrooms, bok choy
+540	I have pork belly, sugar, and soy sauce. Want red-braised pork.	pork belly, sugar, soy sauce
+541	Only tofu and soy sauce. Something light for dinner.	tofu, soy sauce
+542	I have shrimp, garlic, and chili oil. Want spicy seafood dish.	shrimp, garlic, chili oil
+543	Cooking for my partner. Have chicken, soy sauce, and ginger.	chicken, soy sauce, ginger
+544	Got tofu and mushrooms. Want vegetarian stir-fry.	tofu, mushrooms
+545	I have pork, soy sauce, and sugar. Want sweet braised pork.	pork, soy sauce, sugar
+546	I’ve got beef, chili, and garlic. Want spicy beef.	beef, chili, garlic
+547	Only tofu and sesame oil. Want refreshing cold salad.	tofu, sesame oil
+548	Got chicken wings, honey, and soy sauce. Want sticky wings.	chicken wings, honey, soy sauce
+549	I have tofu, mushrooms, and chili oil. Want spicy stir-fry.	tofu, mushrooms, chili oil
+550	I have beef slices, onions, and soy sauce. Want something fast.	beef slices, onions, soy sauce
+551	Only tofu. Easy recipe for lazy night?	tofu
+552	Got pork belly, chili paste, and garlic. Want spicy pork.	pork belly, chili paste, garlic
+553	I have tofu, mushrooms, and garlic. Want cozy vegetarian dinner.	tofu, mushrooms, garlic
+554	I’ve got chicken, soy sauce, and ginger. Want something homestyle.	chicken, soy sauce, ginger
+555	Cooking for family. Have pork, chili, and garlic.	pork, chili, garlic
+556	Got tofu, spinach, and sesame oil. Want healthy salad.	tofu, spinach, sesame oil
+557	I have shrimp and tofu. Want a light seafood dish.	shrimp, tofu
+558	Only tofu. Something refreshing.	tofu
+559	I have beef, chili oil, and sesame. Want spicy beef.	beef, chili oil, sesame
+560	Got chicken, chili, and soy sauce. Want fiery stir-fry.	chicken, chili, soy sauce
+561	I have tofu, mushrooms, and soy sauce. Want vegetarian stir-fry.	tofu, mushrooms, soy sauce
+562	Only tofu and soy sauce. Want simple lunch.	tofu, soy sauce
+563	I have pork, ginger, and soy sauce. Want something comforting.	pork, ginger, soy sauce
+564	Got tofu, mushrooms, and chili oil. Want spicy tofu cubes.	tofu, mushrooms, chili oil
+565	I’ve got shrimp, garlic, and soy sauce. Need seafood stir-fry.	shrimp, garlic, soy sauce
+566	Only tofu. What’s a fast snack I can make?	tofu
+567	I have pork belly, soy sauce, and sugar. Want red-braised pork.	pork belly, sugar, soy sauce
+568	Got tofu, mushrooms, and spinach. Want vegetarian soup.	tofu, mushrooms, spinach
+569	I have chicken, chili, and garlic. Want spicy stir-fry.	chicken, chili, garlic
+570	Cooking for two. Have beef, onions, and soy sauce.	beef, onions, soy sauce
+571	Only tofu. Healthy dish idea?	tofu
+572	Got pork, bamboo shoots, and chili oil. Want shredded pork dish.	pork, bamboo shoots, chili oil
+573	I have tofu, mushrooms, and chili. Want spicy vegetarian meal.	tofu, mushrooms, chili
+574	I have shrimp, garlic, and soy sauce. Want seafood stir-fry.	shrimp, garlic, soy sauce
+575	Got tofu, chili bean paste, and scallions. Want Mapo Tofu.	tofu, chili bean paste, scallions
+576	Only tofu. Quick meal idea?	tofu
+577	I have chicken, soy sauce, and sugar. Want sweet stir-fry.	chicken, soy sauce, sugar
+578	Got beef, garlic, and chili oil. Want something fiery.	beef, garlic, chili oil
+579	I have tofu and mushrooms. Want soup.	tofu, mushrooms
+580	Cooking for myself. Only tofu and soy sauce.	tofu, soy sauce
+581	I have pork ribs, soy sauce, and sugar. Want braised ribs.	pork ribs, soy sauce, sugar
+582	Got tofu, mushrooms, and garlic. Want a light dinner.	tofu, mushrooms, garlic
+583	I’ve got chicken, chili, and soy sauce. Want spicy stir-fry.	chicken, chili, soy sauce
+584	Only tofu and chili oil. Something fast.	tofu, chili oil
+585	I have beef, onions, and soy sauce. Want stir-fried beef.	beef, onions, soy sauce
+586	Got tofu, mushrooms, and spinach. Want vegetarian soup.	tofu, mushrooms, spinach
+587	Cooking for friends. Have pork, garlic, and chili.	pork, garlic, chili
+588	I have tofu, chili paste, and soy sauce. Want spicy tofu cubes.	tofu, chili paste, soy sauce
+589	Got shrimp, garlic, and soy sauce. Want quick seafood dish.	shrimp, garlic, soy sauce
+590	Only tofu. What can I make fast?	tofu
+591	I have pork belly, sugar, and soy sauce. Want braised pork.	pork belly, sugar, soy sauce
+592	Got tofu, mushrooms, and chili. Want spicy stir-fry.	tofu, mushrooms, chili
+593	I have chicken, soy sauce, and ginger. Want classic Chinese chicken.	chicken, soy sauce, ginger
+594	Only tofu. Easy meal for one?	tofu
+595	I’ve got beef, chili, and garlic. Want hot stir-fry.	beef, chili, garlic
+596	Got tofu, mushrooms, and soy sauce. Want vegetarian dish.	tofu, mushrooms, soy sauce
+597	I have shrimp, garlic, and chili oil. Want spicy seafood dish.	shrimp, garlic, chili oil
+598	Cooking for myself. Have tofu and soy sauce.	tofu, soy sauce
+599	Got pork ribs, soy sauce, and sugar. Want braised ribs.	pork ribs, soy sauce, sugar
+600	I have tofu, mushrooms, and chili. Want spicy tofu stir-fry.	tofu, mushrooms, chili
+601	Only tofu. Something cold for lunch.	tofu
+602	I’ve got chicken, chili, and garlic. Want spicy chicken.	chicken, chili, garlic
+603	Got beef and broccoli. Want quick stir-fry.	beef, broccoli
+604	I have tofu, mushrooms, and soy sauce. Want soup.	tofu, mushrooms, soy sauce
+605	Only tofu and sesame oil. Quick salad idea?	tofu, sesame oil
+606	I have pork belly, chili oil, and garlic. Want bold pork dish.	pork belly, chili oil, garlic
+607	Got tofu, mushrooms, and chili oil. Want spicy vegetarian dish.	tofu, mushrooms, chili oil
+608	I just got home from work, have pork belly, garlic, and soy sauce — what can I make fast?	pork belly, garlic, soy sauce
+609	Got chicken wings and honey. Want something sticky and sweet for dinner.	chicken wings, honey
+610	Only beef and onions in my fridge. Any quick Chinese stir-fry idea?	beef, onions
+611	Cooking for friends tonight. I have shrimp, chili, and ginger — something spicy?	shrimp, chili, ginger
+612	I have pork ribs, rock sugar, and soy sauce. Want to make Hong Shao Pai Gu.	pork ribs, rock sugar, soy sauce
+613	Just eggs and tomatoes. Classic Chinese dish idea?	eggs, tomatoes
+614	I’ve got chicken, oyster sauce, and garlic. Want a home-style stir-fry.	chicken, oyster sauce, garlic
+615	Feeling lazy tonight. Only pork and cabbage — any simple meal?	pork, cabbage
+616	I have shrimp, garlic, and chili oil. Need something bold and quick.	shrimp, garlic, chili oil
+617	Got beef slices and broccoli. Want a restaurant-style stir-fry.	beef slices, broccoli
+618	I’m cooking for family. Have duck, soy sauce, and five-spice powder.	duck, soy sauce, five-spice powder
+619	Only noodles, soy sauce, and chili oil. Need a fast lunch.	noodles, soy sauce, chili oil
+620	I have pork, bell peppers, and onions. Want something colorful and spicy.	pork, bell peppers, onions
+621	Got chicken thighs, ginger, and soy sauce. Want something comforting.	chicken thighs, ginger, soy sauce
+622	I’ve got shrimp, eggs, and rice. Need a quick dinner.	shrimp, eggs, rice
+623	Only pork belly and sugar. Something rich and braised?	pork belly, sugar
+624	I have beef brisket, daikon, and soy sauce. Want a slow-cooked stew.	beef brisket, daikon, soy sauce
+625	Got chicken breast and chili. Want a spicy fast dish.	chicken breast, chili
+626	I’m making food for kids. Have pork ribs and honey.	pork ribs, honey
+627	I have shrimp, garlic, and scallions. Want a light stir-fry.	shrimp, garlic, scallions
+628	Got pork, ginger, and soy sauce. Want a dumpling filling idea.	pork, ginger, soy sauce
+629	Only beef and green pepper. Any home-style stir-fry?	beef, green pepper
+630	I’ve got chicken, garlic, and chili. Want something spicy for rice.	chicken, garlic, chili
+631	Cooking for two. Have pork ribs, soy sauce, and ginger.	pork ribs, soy sauce, ginger
+632	Got shrimp, bell peppers, and garlic. Want colorful seafood stir-fry.	shrimp, bell peppers, garlic
+633	I have beef, chili oil, and sesame. Need something hot and fast.	beef, chili oil, sesame
+634	Just pork and chili paste. Want Sichuan-style dish.	pork, chili paste
+635	I’ve got chicken, soy sauce, and cornstarch. Want tender stir-fry chicken.	chicken, soy sauce, cornstarch
+636	Only pork ribs and vinegar. Any sweet-and-sour idea?	pork ribs, vinegar
+637	Got shrimp, garlic, and glass noodles. Want steamed shrimp dish.	shrimp, garlic, glass noodles
+638	I have beef slices, onions, and oyster sauce. Want quick dinner.	beef slices, onions, oyster sauce
+639	Cooking late. Have pork, chili, and garlic — fast spicy recipe?	pork, chili, garlic
+640	I’ve got chicken legs and soy sauce. Want something comforting.	chicken legs, soy sauce
+641	Only shrimp and chili oil. What’s a quick appetizer?	shrimp, chili oil
+642	I have pork belly, ginger, and rice wine. Want braised pork.	pork belly, ginger, rice wine
+643	Got beef, potatoes, and carrots. Want a Chinese-style stew.	beef, potatoes, carrots
+644	Feeling lazy. Only eggs and rice — maybe fried rice?	eggs, rice
+645	I have pork ribs, ginger, and soy sauce. Want clear soup.	pork ribs, ginger, soy sauce
+646	Got shrimp, chili, and garlic. Want spicy seafood.	shrimp, chili, garlic
+647	I’ve got chicken breast, soy sauce, and sugar. Want sweet chicken.	chicken breast, soy sauce, sugar
+648	Only noodles and soy sauce. Something fast for midnight.	noodles, soy sauce
+649	Cooking for my girlfriend. Have beef and chili — want something impressive.	beef, chili
+650	I have pork, green beans, and garlic. Want dry-fried green beans.	pork, green beans, garlic
+651	Got shrimp, ginger, and scallions. Want a light dish.	shrimp, ginger, scallions
+652	Feeling hungry. Have chicken and chili oil — spicy dinner please.	chicken, chili oil
+653	I have pork ribs and honey. Want sticky ribs.	pork ribs, honey
+654	Got beef slices, black pepper, and onions. Want black pepper beef.	beef slices, black pepper, onions
+655	Only shrimp and soy sauce. Simple but tasty?	shrimp, soy sauce
+656	I’ve got chicken, chili, and peanuts. Want Kung Pao Chicken.	chicken, chili, peanuts
+657	Cooking for myself. Have pork belly and garlic.	pork belly, garlic
+658	Got shrimp, garlic, and chili. Want something quick for lunch.	shrimp, garlic, chili
+659	I have beef, broccoli, and soy sauce. Need a 10-minute meal.	beef, broccoli, soy sauce
+660	Only eggs and scallions. Maybe fried rice.	eggs, scallions
+661	Got pork ribs, soy sauce, and sugar. Want braised ribs.	pork ribs, soy sauce, sugar
+662	I have chicken, chili oil, and sesame. Want spicy sesame chicken.	chicken, chili oil, sesame
+663	Feeling sick. Have ginger, chicken, and rice — maybe congee?	ginger, chicken, rice
+664	Got shrimp, garlic, and chili oil. Want spicy stir-fry.	shrimp, garlic, chili oil
+665	I have pork belly, soy sauce, and sugar. Want red-braised pork.	pork belly, soy sauce, sugar
+666	Only chicken wings and soy sauce. Need an easy recipe.	chicken wings, soy sauce
+667	Got beef, onions, and soy sauce. Want quick stir-fry.	beef, onions, soy sauce
+668	Cooking for friends. Have shrimp and chili oil.	shrimp, chili oil
+669	I have pork, chili, and garlic. Want a fiery home dish.	pork, chili, garlic
+670	Got chicken, oyster sauce, and ginger. Want comfort food.	chicken, oyster sauce, ginger
+671	Only pork ribs and rock sugar. Want something sweet.	pork ribs, rock sugar
+672	I have shrimp, garlic, and chili. Want spicy seafood stir-fry.	shrimp, garlic, chili
+673	Feeling lazy. Only noodles and soy sauce.	noodles, soy sauce
+674	Got beef, chili oil, and sesame. Want hot stir-fry.	beef, chili oil, sesame
+675	I have pork belly and garlic. Want braised dish.	pork belly, garlic
+676	Cooking late. Have shrimp, soy sauce, and ginger.	shrimp, soy sauce, ginger
+677	I’ve got chicken wings, honey, and soy sauce. Want sweet wings.	chicken wings, honey, soy sauce
+678	Only beef and onions. Quick stir-fry?	beef, onions
+679	Got pork ribs and soy sauce. Want soup or stew.	pork ribs, soy sauce
+680	I have shrimp, garlic, and scallions. Want a light meal.	shrimp, garlic, scallions
+681	Cooking for two. Have chicken and chili oil.	chicken, chili oil
+682	Got beef, bell peppers, and garlic. Want colorful stir-fry.	beef, bell peppers, garlic
+683	Only eggs and rice. Maybe quick fried rice.	eggs, rice
+684	I have pork ribs, soy sauce, and sugar. Want braised ribs again.	pork ribs, soy sauce, sugar
+685	Got chicken thighs, ginger, and soy sauce. Comfort dish idea?	chicken thighs, ginger, soy sauce
+686	I’ve got shrimp and chili oil. Want spicy seafood.	shrimp, chili oil
+687	Cooking for family. Have pork and cabbage.	pork, cabbage
+688	Only beef and broccoli. Want simple stir-fry.	beef, broccoli
+689	Got chicken, soy sauce, and garlic. Need quick dinner.	chicken, soy sauce, garlic
+690	I have shrimp, chili, and garlic. Want spicy stir-fry.	shrimp, chili, garlic
+691	Feeling tired. Only pork belly and sugar.	pork belly, sugar
+692	Got beef slices and chili oil. Want hot stir-fry.	beef slices, chili oil
+693	I have shrimp, garlic, and chili oil. Want spicy seafood appetizer.	shrimp, garlic, chili oil
+694	Got chicken, soy sauce, and cornstarch. Want soft stir-fried chicken.	chicken, soy sauce, cornstarch
+695	Cooking for myself. Have pork and garlic.	pork, garlic
+696	Only noodles and soy sauce. Quick meal?	noodles, soy sauce
+697	I have shrimp, eggs, and rice. Want something fast.	shrimp, eggs, rice
+698	Got beef, onions, and black pepper. Want black pepper beef.	beef, onions, black pepper
+699	I have pork ribs and soy sauce. Want a homestyle soup.	pork ribs, soy sauce
+700	Got chicken, chili oil, and garlic. Want spicy stir-fry.	chicken, chili oil, garlic
+701	Feeling lazy. Only eggs and rice.	eggs, rice
+702	Got pork belly and soy sauce. Want braised pork.	pork belly, soy sauce
+703	Cooking for my partner. Have shrimp and chili oil.	shrimp, chili oil
+704	I have beef, chili, and garlic. Want fiery dish.	beef, chili, garlic
+705	Got chicken, soy sauce, and ginger. Classic comfort food.	chicken, soy sauce, ginger
+706	Only pork ribs and vinegar. Want sweet-and-sour ribs.	pork ribs, vinegar
+707	Got shrimp, garlic, and chili. Want spicy seafood stir-fry.	shrimp, garlic, chili
+708	I have pork, green beans, and chili. Want dry-fried green beans.	pork, green beans, chili
+709	Feeling cold. Have beef brisket and daikon — want stew.	beef brisket, daikon
+710	Got chicken, chili oil, and garlic. Want spicy stir-fry.	chicken, chili oil, garlic
+711	I have shrimp, garlic, and soy sauce. Want quick meal.	shrimp, garlic, soy sauce
+712	Only pork belly and sugar. Want something sweet and savory.	pork belly, sugar
+713	Got beef slices, onions, and soy sauce. Quick stir-fry?	beef slices, onions, soy sauce
+714	I’ve got chicken, ginger, and soy sauce. Want simple home dish.	chicken, ginger, soy sauce
+715	Only shrimp and chili oil. Want bold appetizer.	shrimp, chili oil
+716	Cooking for my parents. Have pork ribs and soy sauce.	pork ribs, soy sauce
+717	Got beef, chili, and garlic. Want something fiery.	beef, chili, garlic
+718	I have shrimp, garlic, and chili oil. Want spicy seafood dish.	shrimp, garlic, chili oil
+719	Feeling lazy. Only noodles and soy sauce — quick recipe?	noodles, soy sauce
+720	Got chicken, soy sauce, and garlic. Want a homestyle stir-fry.	chicken, soy sauce, garlic
+721	I have beef, onions, and soy sauce. Want dinner in 10 minutes.	beef, onions, soy sauce
+722	Got pork ribs, soy sauce, and sugar. Want braised ribs.	pork ribs, soy sauce, sugar
+723	Only shrimp and chili. Need fast seafood dish.	shrimp, chili
+724	Cooking for friends. Have chicken and chili oil.	chicken, chili oil
+725	Got pork belly and garlic. Want rich spicy dish.	pork belly, garlic
+726	I have beef, onions, and soy sauce. Want a restaurant-style meal.	beef, onions, soy sauce
+727	Only pork and chili oil. Simple but spicy?	pork, chili oil
+728	Got shrimp, garlic, and chili oil. Want spicy seafood.	shrimp, garlic, chili oil
+729	I have chicken, soy sauce, and sugar. Want sweet glazed chicken.	chicken, soy sauce, sugar
+730	Feeling tired. Only eggs and rice — quick meal please.	eggs, rice
+731	Got pork, ginger, and soy sauce. Want homestyle dish.	pork, ginger, soy sauce
+732	Cooking for myself. Have shrimp and chili oil.	shrimp, chili oil
+733	Got beef, onions, and soy sauce. Want quick stir-fry.	beef, onions, soy sauce
+734	I have chicken, chili, and garlic. Want spicy dish for rice.	chicken, chili, garlic
+735	Only pork ribs and honey. Want sweet ribs.	pork ribs, honey
+736	Got shrimp, garlic, and chili. Need seafood idea.	shrimp, garlic, chili
+737	I have pork belly, soy sauce, and sugar. Want braised pork belly.	pork belly, soy sauce, sugar
+738	Got beef slices and chili oil. Want hot stir-fry.	beef slices, chili oil
+739	Only shrimp and soy sauce. Quick appetizer?	shrimp, soy sauce
+740	Cooking for family. Have chicken and garlic.	chicken, garlic
+741	Got pork, chili, and soy sauce. Want spicy stir-fry.	pork, chili, soy sauce
+742	I have shrimp, garlic, and scallions. Want light seafood.	shrimp, garlic, scallions
+743	Feeling lazy. Only noodles and soy sauce.	noodles, soy sauce
+744	Got beef, onions, and chili. Want fast dinner.	beef, onions, chili
+745	I have chicken, soy sauce, and ginger. Want easy comfort food.	chicken, soy sauce, ginger
+746	Got pork ribs, soy sauce, and sugar. Want something sweet and savory.	pork ribs, soy sauce, sugar
+747	Only shrimp and chili oil. Quick seafood snack?	shrimp, chili oil
+748	Cooking for myself. Have beef and chili oil.	beef, chili oil
+749	Got chicken, soy sauce, and cornstarch. Want soft stir-fry chicken.	chicken, soy sauce, cornstarch
+750	I have pork, chili, and garlic. Want bold spicy dish.	pork, chili, garlic
+751	Got shrimp, ginger, and soy sauce. Want quick meal.	shrimp, ginger, soy sauce
+752	Feeling lazy. Only noodles and soy sauce.	noodles, soy sauce
+753	Got chicken, chili oil, and garlic. Want spicy stir-fry.	chicken, chili oil, garlic
+754	I have pork belly, sugar, and soy sauce. Want red-braised pork.	pork belly, sugar, soy sauce
+755	Got beef, onions, and soy sauce. Want quick dinner.	beef, onions, soy sauce
+756	Only shrimp and chili oil. Want spicy seafood appetizer.	shrimp, chili oil
+757	Cooking for friends. Have chicken and soy sauce.	chicken, soy sauce
+758	Got pork ribs, soy sauce, and sugar. Want braised ribs again.	pork ribs, soy sauce, sugar
+759	I have shrimp, garlic, and chili. Want spicy seafood.	shrimp, garlic, chili
+760	Got chicken, ginger, and soy sauce. Want classic Chinese meal.	chicken, ginger, soy sauce
+761	Feeling tired. Only eggs and rice — any idea?	eggs, rice
+762	Got beef, onions, and soy sauce. Want fast stir-fry.	beef, onions, soy sauce
+763	I have pork, chili, and garlic. Want something bold and spicy.	pork, chili, garlic
+764	Got shrimp, garlic, and chili oil. Want seafood stir-fry.	shrimp, garlic, chili oil
+765	Only noodles and soy sauce. Need late-night snack.	noodles, soy sauce
+766	I have chicken, chili, and soy sauce. Want fiery stir-fry.	chicken, chili, soy sauce
+767	Got pork ribs, soy sauce, and sugar. Want sweet-savory dish.	pork ribs, soy sauce, sugar
+768	Cooking for myself. Have beef and garlic.	beef, garlic
+769	Got shrimp, chili, and soy sauce. Want quick seafood dish.	shrimp, chili, soy sauce
+770	I have chicken, soy sauce, and ginger. Want c	chicken, soy sauce, ginger
+771	Just finished the gym. I have chicken breast, soy sauce, and garlic — need something high-protein and quick.	chicken breast, soy sauce, garlic
+772	Feeling broke tonight. Only eggs and rice — how can I make it interesting?	eggs, rice
+773	Family dinner tomorrow. I have pork ribs, soy sauce, and honey — want something impressive.	pork ribs, soy sauce, honey
+774	It’s late. I only have noodles and soy sauce. What’s a quick midnight snack?	noodles, soy sauce
+775	I’m hosting friends this weekend. Got shrimp, chili, and garlic — need a spicy sharing dish.	shrimp, chili, garlic
+776	Feeling cold and tired. I have beef brisket, ginger, and daikon — want a warm stew.	beef brisket, ginger, daikon
+777	After work, I’m starving. Have chicken, chili oil, and garlic — need a fast stir-fry.	chicken, chili oil, garlic
+778	Cooking for a birthday dinner. I have duck, honey, and soy sauce — want a fancy dish.	duck, honey, soy sauce
+779	Just came back from the market. Got pork belly, ginger, and sugar — thinking braised pork.	pork belly, ginger, sugar
+780	Feeling lazy on Sunday. Only noodles, soy sauce, and garlic — comfort food please.	noodles, soy sauce, garlic
+781	Cooking for parents. Have shrimp, scallions, and ginger — want something light.	shrimp, scallions, ginger
+782	It’s lunch break. Only beef and onions — need a 10-minute recipe.	beef, onions
+783	I’m on a budget. Just eggs, rice, and soy sauce — cheap but tasty idea?	eggs, rice, soy sauce
+784	Got chicken wings and chili sauce. Want something spicy for game night.	chicken wings, chili sauce
+785	Feeling cozy. Have pork ribs and soy sauce — soup idea?	pork ribs, soy sauce
+786	I’m cooking for guests. Have beef, chili, and garlic — want a bold, flavorful dish.	beef, chili, garlic
+787	It’s raining outside. Have chicken, soy sauce, and ginger — comfort meal idea.	chicken, soy sauce, ginger
+788	Cooking something romantic. Got shrimp and chili oil — need a spicy dinner.	shrimp, chili oil
+789	Feeling tired. Only pork and cabbage — fast and homestyle, please.	pork, cabbage
+790	After gym. Have beef, garlic, and soy sauce — protein dinner idea.	beef, garlic, soy sauce
+791	Weekend lunch. Have chicken wings, soy sauce, and honey — something fun.	chicken wings, soy sauce, honey
+792	Got shrimp and garlic. Need something fresh for summer.	shrimp, garlic
+793	Feeling lazy. Only noodles, soy sauce, and chili oil — easy one-bowl dish?	noodles, soy sauce, chili oil
+794	Cooking for my kids. Have pork ribs and honey — sweet and sticky?	pork ribs, honey
+795	Late-night craving. Only rice and eggs — help me make it taste better.	rice, eggs
+796	Hosting a dinner party. Have duck, soy sauce, and ginger — want something traditional.	duck, soy sauce, ginger
+797	Feeling hungry after a long day. Have chicken, soy sauce, and garlic.	chicken, soy sauce, garlic
+798	Got shrimp, chili, and ginger — want spicy seafood for dinner.	shrimp, chili, ginger
+799	Lazy Friday night. Only pork and soy sauce — what’s easy?	pork, soy sauce
+800	Cooking for family. Have beef and broccoli — classic recipe idea?	beef, broccoli
+801	Feeling cold. Have pork ribs, soy sauce, and rock sugar — stew maybe?	pork ribs, soy sauce, rock sugar
+802	Quick lunch idea? I have chicken, chili oil, and garlic.	chicken, chili oil, garlic
+803	Date night cooking. Got shrimp and chili — want something fancy but easy.	shrimp, chili
+804	Just came home from work. Have pork belly, garlic, and soy sauce — what’s fast?	pork belly, garlic, soy sauce
+805	Feeling lazy. Only noodles and chili oil — quick comfort dish?	noodles, chili oil
+806	Cooking for my brother. Have beef, onions, and soy sauce — need a crowd-pleaser.	beef, onions, soy sauce
+807	Hungry but lazy. Have chicken and soy sauce — what’s the simplest meal?	chicken, soy sauce
+808	Weekend cooking. Got shrimp, garlic, and scallions — something for sharing.	shrimp, garlic, scallions
+809	Feeling broke again. Only rice, soy sauce, and an egg — any magic trick?	rice, soy sauce, egg
+810	I’m on a diet. Have chicken breast, chili, and garlic — something light and spicy.	chicken breast, chili, garlic
+811	Rainy evening. Have pork ribs and ginger — want a warm soup.	pork ribs, ginger
+812	Cooking for guests. Got shrimp, garlic, and chili — something impressive?	shrimp, garlic, chili
+813	Feeling nostalgic. Have pork, soy sauce, and sugar — want grandma-style dish.	pork, soy sauce, sugar
+814	After a workout. Have beef, chili, and garlic — high-protein dinner idea.	beef, chili, garlic
+815	It’s cold tonight. Have chicken, ginger, and rice wine — want soup or stew.	chicken, ginger, rice wine
+816	Family reunion. Got duck, soy sauce, and honey — need something special.	duck, soy sauce, honey
+817	Feeling lazy. Only noodles and soy sauce — comfort bowl please.	noodles, soy sauce
+818	Cooking for two. Have shrimp, garlic, and chili — spicy seafood idea?	shrimp, garlic, chili
+819	Weekend lunch. Have pork belly, soy sauce, and sugar — something indulgent.	pork belly, soy sauce, sugar
+820	Feeling sick. Have chicken, ginger, and rice — want congee or soup.	chicken, ginger, rice
+821	After gym. Have beef, garlic, and broccoli — want quick protein meal.	beef, garlic, broccoli
+822	Just rice and soy sauce again. Any creative Chinese dish?	rice, soy sauce
+823	Cooking for my partner. Have shrimp, chili, and garlic — want romantic dinner idea.	shrimp, chili, garlic
+824	Feeling cold. Have pork ribs and soy sauce — want slow-braised ribs.	pork ribs, soy sauce
+825	Hungry late at night. Only noodles and garlic — snack idea?	noodles, garlic
+826	Cooking for family. Have chicken, soy sauce, and sugar — want something sweet and savory.	chicken, soy sauce, sugar
+827	Feeling tired. Have shrimp and chili oil — fast seafood idea?	shrimp, chili oil
+828	Hosting guests. Got pork belly and soy sauce — something impressive?	pork belly, soy sauce
+829	After gym. Have chicken and chili — want spicy lean meal.	chicken, chili
+830	Feeling cozy. Have beef, onions, and soy sauce — comfort food idea.	beef, onions, soy sauce
+831	I’m broke. Only eggs, rice, and soy sauce — need to make it taste great.	eggs, rice, soy sauce
+832	Cooking for myself. Have shrimp and chili oil — want fast dinner.	shrimp, chili oil
+833	Feeling cold. Have pork ribs and ginger — soup suggestion?	beef brisket, ginger, daikon
+834	Got beef, chili, and garlic — want something fiery.	chicken, chili oil, garlic
+835	Weekend dinner. Have chicken, soy sauce, and honey — want glazed wings.	duck, honey, soy sauce
+836	Feeling lazy. Only noodles and soy sauce — comfort dish please.	pork belly, ginger, sugar
+837	Cooking for parents. Have shrimp, scallions, and ginger — want light dish.	noodles, soy sauce, garlic
+838	Hungry. Have pork, chili, and garlic — want quick stir-fry.	shrimp, scallions, ginger
+839	After gym. Have beef, onions, and soy sauce — need fast protein meal.	beef, onions
+840	Feeling cozy. Have chicken, ginger, and soy sauce — something warm and easy.	eggs, rice, soy sauce
+841	Cooking for date night. Got shrimp and chili — spicy meal for two.	chicken wings, chili sauce
+842	Feeling broke. Only eggs and rice — need cheap but good dinner.	pork ribs, soy sauce
+843	Hosting family. Have duck, soy sauce, and honey — want a festive dish.	beef, chili, garlic
+844	Weekend night. Have pork belly and sugar — want red-braised pork.	chicken, soy sauce, ginger
+845	Feeling tired. Have chicken, soy sauce, and garlic — fast comfort food.	shrimp, chili oil
+846	Cooking for friends. Have shrimp, chili, and garlic — something flavorful.	pork, cabbage
+847	After gym. Have beef and broccoli — quick dinner idea.	beef, garlic, soy sauce
+848	Feeling cold. Have pork ribs and soy sauce — want braised soup.	chicken wings, soy sauce, honey
+849	Just got home. Only noodles and soy sauce — lazy night meal?	shrimp, garlic
+850	Cooking for my sister. Have chicken, chili, and peanuts — Kung Pao Chicken?	noodles, soy sauce, chili oil
+851	Feeling hungry. Have pork and garlic — want spicy stir-fry.	pork ribs, honey
+852	Weekend lunch. Have shrimp, scallions, and ginger — light seafood dish.	rice, eggs
+853	Feeling lazy. Only noodles, soy sauce, and chili oil — fast comfort meal.	duck, soy sauce, ginger
+854	Cooking for guests. Have beef, onions, and garlic — impressive stir-fry?	chicken, soy sauce, garlic
+855	Feeling broke. Only eggs and rice — quick Chinese comfort food?	shrimp, chili, ginger
+856	After gym. Have chicken breast, soy sauce, and chili — light protein dish.	pork, soy sauce
+857	Feeling cold. Have pork ribs and ginger — want soup.	beef, broccoli
+858	Family dinner. Have shrimp, chili, and garlic — something festive.	pork ribs, soy sauce, rock sugar
+859	Cooking late. Have chicken, soy sauce, and sugar — easy stir-fry.	chicken, chili oil, garlic
+860	Feeling cozy. Have beef, onions, and soy sauce — homestyle meal.	shrimp, chili
+861	Weekend treat. Have duck, honey, and soy sauce — want glazed duck.	pork belly, garlic, soy sauce
+862	Feeling lazy. Only noodles and soy sauce — comfort food idea?	noodles, chili oil
+863	After work. Have shrimp, garlic, and chili — want spicy seafood dish.	beef, onions, soy sauce
+864	Feeling broke. Only eggs, rice, and soy sauce — simple but good?	chicken, soy sauce
+865	Cooking for myself. Have pork belly and garlic — craving braised pork.	shrimp, garlic, scallions
+866	Feeling cold. Have beef brisket and daikon — warm stew idea.	rice, soy sauce, egg
+867	Weekend dinner. Have chicken, soy sauce, and honey — something sweet.	chicken breast, chili, garlic
+868	Feeling hungry. Have shrimp, chili, and garlic — want spicy dinner.	pork ribs, ginger
+869	Cooking for family. Have pork ribs and soy sauce — braised dish idea?	shrimp, garlic, chili
+870	After gym. Have beef, onions, and soy sauce — protein dinner.	pork, soy sauce, sugar
+871	Feeling tired. Only noodles and soy sauce — easy quick meal?	beef, chili, garlic
+872	Hosting friends. Have shrimp, chili, and garlic — shareable dish idea.	chicken, ginger, rice wine
+873	Feeling broke. Only rice and an egg — need something filling.	duck, soy sauce, honey
+874	Weekend lunch. Have chicken, soy sauce, and ginger — comfort recipe.	noodles, soy sauce
+875	Cooking for parents. Have duck, soy sauce, and honey — want traditional meal.	shrimp, garlic, chili
+876	Feeling cozy. Have pork belly, garlic, and soy sauce — craving red-braised pork.	pork belly, soy sauce, sugar
+877	After gym. Have beef, chili, and garlic — quick spicy dinner.	chicken, ginger, rice
+878	Feeling lazy. Only noodles, soy sauce, and chili oil — comfort snack.	beef, garlic, broccoli
+879	Cooking for guests. Have shrimp, chili, and garlic — need a bold flavor.	rice, soy sauce
+880	Feeling broke. Only eggs and rice — help me make it tasty.	shrimp, chili, garlic
+881	Weekend cooking. Have chicken, soy sauce, and sugar — sweet chicken dish.	pork ribs, soy sauce
+882	Feeling tired. Have beef and onions — need fast stir-fry.	noodles, garlic
+883	Cooking for date night. Have shrimp and chili — want romantic dinner.	chicken, soy sauce, sugar
+884	Feeling cold. Have pork ribs and soy sauce — soup for dinner.	shrimp, chili oil
+885	After gym. Have chicken, chili, and garlic — quick spicy meal.	pork belly, soy sauce
+886	Feeling cozy. Have beef, onions, and soy sauce — warm comfort food.	chicken, chili
+887	Family gathering. Have shrimp, scallions, and ginger — want something elegant.	beef, onions, soy sauce
+888	Feeling broke. Only noodles and soy sauce — cheap dinner idea.	eggs, rice, soy sauce
+889	Weekend night. Have pork belly, garlic, and soy sauce — want braised dish.	shrimp, chili oil
+890	Feeling tired. Have chicken wings, soy sauce, and honey — quick sweet dinner.	beef brisket, ginger, daikon
+891	After gym. Have beef and broccoli — need easy protein meal.	chicken, chili oil, garlic
+892	Feeling cold. Have pork ribs, ginger, and soy sauce — stew or soup?	duck, honey, soy sauce
+893	Cooking for friends. Have shrimp, garlic, and chili — want spicy dish.	pork belly, ginger, sugar
+894	Lazy Sunday. Only noodles and soy sauce — comfort food time.	noodles, soy sauce, garlic
+895	Feeling broke. Only eggs and rice — want simple fried rice.	eggs, rice
+896	Cooking for family. Have chicken, soy sauce, and ginger — warm dinner.	chicken, soy sauce, ginger
+897	After gym. Have beef, onions, and soy sauce — protein stir-fry.	beef, onions, soy sauce
+898	Feeling cozy. Have pork ribs and soy sauce — soup for the night.	pork ribs, soy sauce
+899	Cooking for my partner. Have shrimp, garlic, and chili — romantic spicy dinner.	shrimp, garlic, chili
+900	Weekend dinner. Have chicken, soy sauce, and sugar — something sweet.	chicken, soy sauce, sugar
+901	Feeling broke. Only noodles and soy sauce — simple but tasty idea?	noodles, soy sauce
+902	Cooking for friends. Have beef, chili, and garlic — want bold dish.	beef, chili, garlic
+903	Feeling tired. Have pork belly and soy sauce — easy braised pork.	pork belly, soy sauce
+904	After gym. Have chicken, chili, and garlic — spicy high-protein meal.	chicken, chili, garlic
+905	Feeling cold. Have beef brisket and daikon — stew for dinner.	beef brisket, daikon
+906	Cooking for parents. Have shrimp, garlic, and scallions — light seafood dish.	shrimp, garlic, scallions
+907	Feeling lazy. Only noodles and soy sauce — 5-minute comfort dish.	noodles, soy sauce
+908	Weekend lunch. Have chicken, soy sauce, and honey — sweet and sticky wings.	chicken, soy sauce, honey
+909	Feeling broke. Only eggs, rice, and soy sauce — quick fried rice idea.	eggs, rice, soy sauce
+910	After gym. Have beef, chili, and garlic — protein-packed dinner.	beef, chili, garlic
+911	Cooking for guests. Have duck, honey, and soy sauce — want fancy dish.	duck, honey, soy sauce
+912	Feeling cozy. Have pork ribs and soy sauce — warm soup idea.	pork ribs, soy sauce
+913	Lazy night. Only noodles and soy sauce — easy comfort dish.	noodles, soy sauce
+914	Cooking for myself. Have shrimp, chili, and garlic — spicy seafood.	shrimp, chili, garlic
+915	Feeling tired. Have chicken and soy sauce — quick home-style meal.	chicken, soy sauce
+916	After gym. Have beef, onions, and soy sauce — protein dinner.	beef, onions, soy sauce
+917	Feeling cold. Have pork ribs, ginger, and soy sauce — stew idea.	pork ribs, ginger, soy sauce
+918	Cooking for family. Have shrimp, garlic, and chili — seafood dish for sharing.	shrimp, garlic, chili
+919	I just got home hungry. Have pork ribs, soy sauce, and garlic — need a quick comfort meal.	pork ribs, soy sauce, garlic
+920	Cooking for two tonight. Have chicken, chili, and honey — want something sweet and spicy.	chicken, chili, honey
+921	Feeling tired after work. Only noodles and soy sauce — what’s the fastest meal I can make?	noodles, soy sauce
+922	Hosting a small dinner. Got shrimp, chili oil, and scallions — want something to impress.	shrimp, chili oil, scallions
+923	I’m craving spicy food. Have beef, garlic, and chili — any Sichuan-style ideas?	beef, garlic, chili
+924	Weekend brunch. Have eggs, rice, and scallions — maybe fried rice?	eggs, rice, scallions
+925	Feeling broke. Only chicken and soy sauce — how can I make it taste better?	chicken, soy sauce
+926	After gym. Have beef slices, soy sauce, and broccoli — want something high-protein.	beef slices, soy sauce, broccoli
+927	Cooking for parents. Have pork ribs and rock sugar — sweet and savory dish?	pork ribs, rock sugar
+928	Feeling lazy. Only rice and eggs — quick meal suggestion?	rice, eggs
+929	Date night cooking. Got shrimp, garlic, and chili — want romantic seafood.	shrimp, garlic, chili
+930	Rainy evening. Have chicken wings and soy sauce — warm dinner idea?	chicken wings, soy sauce
+931	Family gathering tomorrow. Have pork belly, ginger, and sugar — want braised pork belly.	pork belly, ginger, sugar
+932	Feeling cold. Have beef brisket, daikon, and soy sauce — need hot stew.	beef brisket, daikon, soy sauce
+933	Got chicken, soy sauce, and garlic. Want something comforting after work.	chicken, soy sauce, garlic
+934	Only shrimp and chili oil. Need a fast, flavorful snack.	shrimp, chili oil
+935	Cooking for myself. Have pork, green beans, and garlic — maybe stir-fry?	pork, green beans, garlic
+936	Feeling cozy. Have beef, onions, and oyster sauce — classic dish idea.	beef, onions, oyster sauce
+937	Weekend lunch. Have shrimp, garlic, and chili — want spicy noodles.	shrimp, garlic, chili
+938	I’m starving. Only eggs and rice — what’s the easiest fried rice recipe?	eggs, rice
+939	Got chicken, soy sauce, and chili — want spicy stir-fry.	chicken, soy sauce, chili
+940	Feeling tired. Have pork belly and soy sauce — simple comfort dish.	pork belly, soy sauce
+941	Cooking for guests. Have duck, soy sauce, and honey — want something festive.	duck, soy sauce, honey
+942	After gym. Have chicken, chili, and garlic — need high-protein meal.	chicken, chili, garlic
+943	Feeling lazy on Sunday. Only noodles and soy sauce — something easy, please.	beef brisket, daikon, soy sauce
+944	Cooking for family. Have shrimp, garlic, and chili — seafood dinner idea?	chicken, soy sauce, chili
+945	Got beef slices and black pepper — want black pepper beef.	shrimp, garlic, chili
+946	Feeling broke. Only rice, soy sauce, and an egg — how to make it satisfying?	noodles, soy sauce
+947	Hosting dinner. Have pork ribs, soy sauce, and honey — want to impress guests.	pork, garlic, chili
+948	After gym. Have chicken breast, chili, and soy sauce — light spicy dish.	beef, onions, soy sauce
+949	Feeling cozy. Have beef, onions, and soy sauce — need warm dinner.	chicken, soy sauce, honey
+950	Weekend meal. Have pork belly, garlic, and sugar — want something rich.	shrimp, chili, garlic
+951	Feeling cold. Have chicken, ginger, and rice wine — need soup.	pork ribs, soy sauce, honey
+952	Got shrimp, garlic, and chili — want spicy seafood for dinner.	eggs, rice, soy sauce
+953	Feeling tired. Only noodles and soy sauce — quick comfort dish?	chicken breast, chili, soy sauce
+954	Cooking for friends. Have beef and chili — need a bold, flavorful meal.	beef, onions, soy sauce
+955	Family lunch. Have chicken wings, soy sauce, and honey — want sweet sticky wings.	pork belly, garlic, sugar
+956	After work. Have pork, chili, and soy sauce — need fast spicy stir-fry.	chicken, ginger, rice wine
+957	Feeling broke. Only eggs and rice — quick meal for one?	shrimp, garlic, chili
+958	Got shrimp, garlic, and scallions — want something fresh and light.	noodles, soy sauce
+959	Cooking for a date. Have chicken and chili oil — need spicy dish.	beef, chili, garlic
+960	Feeling lazy. Only noodles and garlic — need easy dinner.	chicken wings, soy sauce, honey
+961	Weekend cooking. Have pork belly, soy sauce, and sugar — want braised pork again.	pork, chili, soy sauce
+962	After gym. Have beef, broccoli, and soy sauce — quick meal.	eggs, rice
+963	Feeling tired. Have shrimp, garlic, and chili — want spicy seafood stir-fry.	shrimp, garlic, scallions
+964	Cooking for family. Have chicken, soy sauce, and ginger — classic Chinese meal.	chicken, chili oil
+965	Got pork ribs, rock sugar, and soy sauce — sweet-savory dish idea?	noodles, garlic
+966	Feeling cold. Have beef brisket and daikon — want stew.	pork belly, soy sauce, sugar
+967	After gym. Have chicken, chili, and soy sauce — need spicy lean protein.	beef, broccoli, soy sauce
+968	Weekend treat. Have shrimp, garlic, and chili — seafood feast idea.	shrimp, garlic, chili
+969	Feeling broke. Only noodles and soy sauce — how can I make it special?	chicken, soy sauce, ginger
+970	Got pork, garlic, and chili — want Sichuan-style stir-fry.	pork ribs, rock sugar, soy sauce
+971	Cooking for myself. Have beef, onions, and soy sauce — fast lunch.	beef brisket, daikon
+972	Feeling cozy. Have chicken, soy sauce, and honey — sweet comfort food.	chicken, chili, soy sauce
+973	After gym. Have shrimp, chili, and garlic — protein-packed dinner.	shrimp, garlic, chili
+974	Feeling lazy. Only eggs and rice — quick meal again.	noodles, soy sauce
+975	Hosting a party. Have pork ribs, soy sauce, and honey — want to impress.	pork, garlic, chili
+976	Got beef, chili, and garlic — want a fiery dinner.	beef, onions, soy sauce
+977	Cooking for family. Have chicken, ginger, and soy sauce — home-style meal.	chicken, soy sauce, honey
+978	Feeling tired. Have shrimp, scallions, and chili oil — quick spicy seafood.	shrimp, chili, garlic
+979	Weekend cooking. Have pork belly, sugar, and soy sauce — red-braised pork time.	pork ribs, soy sauce, honey
+980	After gym. Have beef, onions, and broccoli — 10-minute protein meal.	chicken, chili, garlic
+981	Feeling cold. Have pork ribs, soy sauce, and ginger — warm stew.	beef, onions, soy sauce
+982	Cooking for two. Have shrimp, garlic, and chili — want spicy seafood dish.	pork ribs, ginger, soy sauce
+983	Feeling lazy. Only noodles and soy sauce — comfort food time.	shrimp, garlic, chili
+984	Hosting dinner. Have duck, honey, and soy sauce — festive meal.	duck, honey, soy sauce
+985	Got chicken, chili, and peanuts — want Kung Pao Chicken.	chicken, chili, peanuts
+986	Feeling broke. Only eggs, rice, and soy sauce — simple dinner idea.	eggs, rice, soy sauce
+987	Cooking for family. Have pork ribs and honey — sweet sticky dish.	pork ribs, honey
+988	After gym. Have chicken, chili, and garlic — spicy protein dish.	chicken, chili, garlic
+989	Feeling tired. Have beef, onions, and soy sauce — quick stir-fry idea.	beef, onions, soy sauce
+990	Weekend lunch. Have shrimp, garlic, and scallions — light and healthy.	shrimp, garlic, scallions
+991	Got pork, chili, and soy sauce — want spicy stir-fry.	pork, chili, soy sauce
+992	Feeling cozy. Have chicken wings, soy sauce, and sugar — sweet and savory wings.	chicken wings, soy sauce, sugar
+993	After work. Have shrimp, garlic, and chili oil — quick seafood dish.	shrimp, garlic, chili oil
+994	Feeling lazy. Only noodles and soy sauce — easy meal.	noodles, soy sauce
+995	Cooking for family. Have pork belly, garlic, and sugar — home-style comfort dish.	pork belly, garlic, sugar
+996	After gym. Have beef, chili, and soy sauce — quick spicy meal.	beef, chili, soy sauce
+997	Got chicken, soy sauce, and ginger — want classic braised chicken.	chicken, soy sauce, ginger
+998	Feeling broke. Only eggs and rice — fried rice again?	eggs, rice
+999	Weekend dinner. Have shrimp, chili, and garlic — spicy seafood dish.	shrimp, chili, garlic
+1000	Feeling cozy. Have pork ribs, soy sauce, and honey — sweet dinner.	pork ribs, soy sauce, honey
+1001	After gym. Have chicken, chili, and garlic — spicy lean meal.	chicken, chili, garlic
+1002	Got beef, onions, and soy sauce — want fast dinner.	beef, onions, soy sauce
+1003	Feeling cold. Have pork ribs, ginger, and soy sauce — soup for night.	pork ribs, ginger, soy sauce
+1004	Cooking for family. Have shrimp, garlic, and chili — something festive.	shrimp, garlic, chili
+1005	Weekend treat. Have duck, honey, and soy sauce — want special dish.	duck, honey, soy sauce
+1006	Feeling tired. Only noodles and soy sauce — lazy dinner.	noodles, soy sauce
+1007	After gym. Have beef, garlic, and chili — protein stir-fry.	beef, garlic, chili
+1008	Cooking for myself. Have chicken, soy sauce, and sugar — comfort food.	chicken, soy sauce, sugar
+1009	Feeling lazy. Only rice and eggs — quick meal idea.	rice, eggs
+1010	Hosting dinner. Have pork ribs and honey — want sticky ribs.	pork ribs, honey
+1011	Got shrimp, garlic, and chili — want seafood noodles.	shrimp, garlic, chili
+1012	Feeling broke. Only eggs and soy sauce — help me make something nice.	eggs, soy sauce
+1013	After gym. Have beef and onions — quick protein dish.	beef, onions
+1014	Cooking for parents. Have chicken, soy sauce, and ginger — home-style meal.	chicken, soy sauce, ginger
+1015	Feeling cozy. Have pork, chili, and garlic — bold dinner.	pork, chili, garlic
+1016	Weekend cooking. Have shrimp, chili, and garlic — seafood feast.	shrimp, chili, garlic
+1017	After work. Have beef, soy sauce, and onions — simple stir-fry.	beef, soy sauce, onions
+1018	Feeling lazy. Only noodles and soy sauce — easy comfort food.	noodles, soy sauce
+1019	Cooking for family. Have pork ribs, ginger, and soy sauce — soup for dinner.	pork ribs, ginger, soy sauce
+1020	Got shrimp, garlic, and chili — want spicy seafood dish.	shrimp, garlic, chili
+1021	Feeling broke. Only eggs and rice — simple Chinese meal?	eggs, rice
+1022	Weekend dinner. Have chicken wings, soy sauce, and honey — sweet sticky wings.	chicken wings, soy sauce, honey
+1023	After gym. Have beef, chili, and garlic — quick protein dinner.	beef, chili, garlic
+1024	Feeling cozy. Have pork belly, soy sauce, and sugar — braised pork.	pork belly, soy sauce, sugar
+1025	Cooking for friends. Have shrimp, chili, and garlic — seafood platter.	shrimp, chili, garlic
+1026	Feeling tired. Have chicken, soy sauce, and ginger — warm comfort meal.	chicken, soy sauce, ginger
+1027	Got beef, onions, and soy sauce — 10-minute stir-fry.	beef, onions, soy sauce
+1028	Feeling broke. Only rice and soy sauce — easy cheap meal.	rice, soy sauce
+1029	After gym. Have chicken breast, chili, and garlic — protein stir-fry.	chicken breast, chili, garlic
+1030	Weekend cooking. Have pork ribs, soy sauce, and honey — sweet dinner.	pork ribs, soy sauce, honey
+1031	Feeling cold. Have beef brisket and daikon — need hot stew.	beef brisket, daikon
+1032	Cooking for family. Have shrimp, garlic, and chili — something spicy.	shrimp, garlic, chili
+1033	Feeling lazy. Only noodles and soy sauce — easy meal tonight.	noodles, soy sauce
+1034	After gym. Have beef, onions, and soy sauce — quick protein stir-fry.	beef, onions, soy sauce
+1035	Got chicken, chili, and garlic — want spicy dish.	chicken, chili, garlic
+1036	Feeling tired. Have pork belly and sugar — need comforting food.	pork belly, sugar
+1037	Weekend dinner. Have shrimp, garlic, and chili — seafood treat.	shrimp, garlic, chili
+1038	Cooking for guests. Have duck, honey, and soy sauce — festive dinner.	duck, honey, soy sauce
+1039	Feeling broke. Only eggs and rice — quick budget meal.	eggs, rice
+1040	After gym. Have beef, chili, and garlic — protein stir-fry.	beef, chili, garlic
+1041	Feeling cozy. Have chicken, soy sauce, and ginger — comfort meal.	chicken, soy sauce, ginger
+1042	Got pork ribs, soy sauce, and honey — want sweet sticky ribs.	pork ribs, soy sauce, honey
+1043	Cooking for friends. Have shrimp and chili — want bold seafood dish.	shrimp, chili
+1044	Feeling cold. Have beef brisket and daikon — stew for tonight.	beef brisket, daikon
+1045	Weekend cooking. Have chicken, soy sauce, and sugar — easy dish.	chicken, soy sauce, sugar
+1046	Feeling lazy. Only noodles and soy sauce — comfort food again.	noodles, soy sauce
+1047	After gym. Have beef, onions, and soy sauce — quick dinner.	beef, onions, soy sauce
+1048	Cooking for family. Have pork ribs and soy sauce — soup idea.	pork ribs, soy sauce
+1049	Got shrimp, garlic, and chili — want seafood stir-fry.	shrimp, garlic, chili
+1050	Feeling tired. Have chicken, soy sauce, and honey — sweet comfort food.	chicken, soy sauce, honey
+1051	After work. Have pork, chili, and garlic — quick spicy stir-fry.	pork, chili, garlic
+1052	Weekend lunch. Have beef, onions, and soy sauce — classic stir-fry.	beef, onions, soy sauce
+1053	Feeling cozy. Have shrimp, garlic, and chili — want seafood noodles.	shrimp, garlic, chili
+1054	Cooking for myself. Only noodles and soy sauce — fast lazy meal.	noodles, soy sauce
+1055	After gym. Have chicken, soy sauce, and chili — spicy protein meal.	chicken, soy sauce, chili
+1056	Feeling cold. Have pork ribs, soy sauce, and ginger — soup for dinner.	pork ribs, soy sauce, ginger
+1057	Hosting family. Have beef, garlic, and chili — want a bold dish.	beef, garlic, chili
+1058	I have pork belly, chili, and garlic. Looking for something spicy and homestyle.  	pork belly, chili, garlic
+1059	Any quick lunch ideas with chicken, soy sauce, and noodles?  	chicken, soy sauce, noodles
+1060	Cooking for Lunar New Year dinner — I have duck, ginger, and honey.  	duck, ginger, honey
+1061	Only beef and onion left... can I make something Chinese with that?  	beef, onion
+1062	Need something sweet for my kids using shrimp and eggs.  	shrimp, eggs
+1063	I’ve got pork ribs, soy sauce, and rock sugar. Want a sweet and savory braised dish.  	pork ribs, soy sauce, rock sugar
+1064	I have chicken wings, garlic, and honey. Need a sticky glaze idea.  	chicken wings, garlic, honey
+1065	Making dinner for parents. I have shrimp, scallions, and ginger.  	shrimp, scallions, ginger
+1066	I’m craving spicy food. I have pork, chili oil, and garlic.  	pork, chili oil, garlic
+1067	Need a comforting dish with beef, potatoes, and carrots.  	beef, potatoes, carrots
+1068	Just rice, eggs, and soy sauce — how can I make it taste amazing?  	rice, eggs, soy sauce
+1069	I have pork belly, ginger, and sugar. Want to make a red-cooked dish.  	pork belly, ginger, sugar
+1070	Cooking for friends. Have shrimp, chili, and sesame oil — need something bold.  	shrimp, chili, sesame oil
+1071	I’m in a rush. Only chicken and soy sauce — any fast stir-fry?  	chicken, soy sauce
+1072	Have beef, onion, and chili. I want a restaurant-style stir-fry.  	beef, onion, chili
+1073	Leftover rice, eggs, and scallions — perfect for fried rice?  	rice, eggs, scallions
+1074	I have pork ribs, honey, and soy sauce. Want sticky sweet ribs.  	pork ribs, honey, soy sauce
+1075	Cooking for two. Have shrimp, garlic, and chili — something spicy and quick.  	shrimp, garlic, chili
+1076	Feeling cold. Have beef brisket, daikon, and ginger — need hot soup.  	beef brisket, daikon, ginger
+1077	Only chicken breast and soy sauce. Something quick and light.  	chicken breast, soy sauce
+1078	I have pork, garlic, and bell peppers. Want colorful stir-fry.  	pork, garlic, bell peppers
+1079	Hosting friends tonight. Have shrimp, chili, and ginger — party food idea?  	shrimp, chili, ginger
+1080	Need a 15-minute dinner with beef, garlic, and soy sauce.  	beef, garlic, soy sauce
+1081	I have duck, honey, and soy sauce. Want a festive Chinese-style roast.  	duck, honey, soy sauce
+1082	Quick noodle dish with pork and chili, please.  	pork, chili
+1083	I have shrimp, garlic, and rice wine. Want Chinese-style seafood.  	shrimp, garlic, rice wine
+1084	Just beef and broccoli. Want takeout-style Chinese stir-fry.  	beef, broccoli
+1085	Cooking for family. Have pork ribs, soy sauce, and sugar — warm dish idea.  	pork ribs, soy sauce, sugar
+1086	I’m hungry. Only eggs and rice — any fast meal?  	eggs, rice
+1087	Want something spicy with chicken, garlic, and chili oil.  	chicken, garlic, chili oil
+1088	I have pork belly, soy sauce, and rock sugar — make it sweet and rich.  	pork belly, soy sauce, rock sugar
+1089	Only shrimp and chili oil. Need a fast Chinese appetizer.  	shrimp, chili oil
+1090	Have beef, onions, and chili — want bold Sichuan flavor.  	beef, onions, chili
+1091	Quick comfort meal with pork and cabbage?  	pork, cabbage
+1092	I have shrimp, garlic, and chili. Want seafood noodles.  	shrimp, garlic, chili
+1093	Making lunch for one. Have chicken, soy sauce, and sesame oil.  	chicken, soy sauce, sesame oil
+1094	Need an easy recipe with pork ribs and honey.  	pork ribs, honey
+1095	Cooking for a date. Have shrimp, garlic, and chili — want romantic dinner.  	shrimp, garlic, chili
+1096	Feeling lazy. Only noodles and soy sauce — what can I add?  	noodles, soy sause
+1097	I have beef, chili, and soy sauce. Need something spicy and fast.  	beef, chili, soy sauce
+1098	Have pork belly, ginger, and soy sauce. Want traditional braised pork.  	pork belly, ginger, soy sauce
+1099	Only eggs and scallions. Can I make something filling?  	eggs, scallions
+1100	I’m craving shrimp with chili and garlic — Chinese-style please.  	shrimp, chili, garlic
+1101	Cooking for family. Have chicken wings, soy sauce, and sugar.  	chicken wings, soy sauce, sugar
+1102	Need a sweet dish with pork and honey.  	pork, honey
+1103	I have shrimp, garlic, and scallions. Want something light and simple.  	shrimp, garlic, scallions
+1104	Just beef and onions. Need a quick Chinese recipe.  	beef, onions
+1105	I have pork ribs and vinegar. Want sweet and sour flavor.  	pork ribs, vinegar
+1106	Want a spicy dinner with chicken, chili, and sesame oil.  	chicken, chili, sesame oil
+1107	Have shrimp and garlic. Need a simple stir-fry idea.  	shrimp, garlic
+1108	Only noodles, soy sauce, and chili oil — comfort food suggestion?  	noodles, soy sauce, chili oil
+1109	I have beef, onions, and black pepper. Want black pepper beef.  	beef, onions, black pepper
+1110	Making dinner for friends. Have pork belly and soy sauce.  	pork belly, soy sauce
+1111	Quick seafood dish with shrimp, chili, and garlic.  	shrimp, chili, garlic
+1112	I’m craving fried rice — have eggs, rice, and scallions.  	eggs, rice, scallions
+1113	Need something cozy with beef brisket and soy sauce.  	beef brisket, soy sauce
+1114	Only chicken and chili. Can I make it spicy and fast?  	chicken, chili
+1115	I have pork ribs, ginger, and soy sauce — want a clear soup.  	pork ribs, ginger, soy sauce
+1116	Got shrimp and chili — want a quick noodle stir-fry.  	shrimp, chili
+1117	Have chicken, soy sauce, and garlic — want homestyle stir-fry.  	chicken, soy sauce, garlic
+1118	Cooking for family. Have pork ribs and rock sugar — sweet dinner.  	pork ribs, rock sugar, soy sauce
+1119	Just rice and eggs again — new way to cook it?  	rice, eggs
+1120	Need a bold dish with beef and chili.  	beef, chili
+1121	I have shrimp, garlic, and soy sauce — want seafood fried rice.  	shrimp, garlic, soy sauce
+1122	Have pork belly and chili paste — want spicy dinner.  	pork belly, chili paste
+1123	Only chicken breast and soy sauce — light protein meal?  	chicken breast, soy sauce
+1124	I have beef, garlic, and chili — need a Sichuan-style stir-fry.  	beef, garlic, chili
+1125	Making food for parents. Have shrimp, scallions, and ginger.  	shrimp, scallions, ginger
+1126	I have pork ribs, soy sauce, and sugar — want braised ribs.  	pork ribs, soy sauce, sugar
+1127	Only eggs, rice, and soy sauce — make it interesting.  	eggs, rice, soy sauce
+1128	Cooking for friends. Have chicken, chili, and peanuts — Kung Pao Chicken?  	chicken, chili, peanuts
+1129	I have beef, broccoli, and soy sauce — need a quick stir-fry recipe.  	beef, broccoli, soy sauce
+1130	Have pork, garlic, and chili oil — want something spicy.  	pork, garlic, chili oil
+1131	Cooking for one. Only noodles and soy sauce — quick idea?  	noodles, soy sauce
+1132	I have shrimp, garlic, and chili — want spicy seafood noodles.  	shrimp, garlic, chili
+1133	Just beef and onions — want something fast and bold.  	beef, onions
+1134	Have chicken, soy sauce, and honey — want sticky chicken.  	chicken, soy sauce, honey
+1135	Need a soup with pork ribs and ginger.  	pork ribs, ginger
+1136	I have shrimp, garlic, and chili oil — want quick seafood stir-fry.  	shrimp, garlic, chili oil
+1137	Only rice and eggs — help me make it taste good.  	rice, eggs
+1138	Cooking for guests. Have duck, soy sauce, and honey — want something festive.  	duck, soy sauce, honey
+1139	I have pork belly and sugar — want sweet red-braised pork.  	pork belly, sugar
+1140	Have beef slices, onions, and soy sauce — need fast meal.  	beef slices, onions, soy sauce
+1141	Want spicy shrimp stir-fry with garlic and chili.  	shrimp, garlic, chili
+1142	I have chicken, soy sauce, and ginger — need comfort food.  	chicken, soy sauce, ginger
+1143	Only noodles and soy sauce — want late-night snack.  	noodles, soy sauce
+1144	Got pork, chili oil, and garlic — want bold flavor.  	pork, chili oil, garlic
+1145	Cooking for my parents. Have shrimp, garlic, and scallions — want light seafood.  	shrimp, garlic, scallions
+1146	I have beef brisket, daikon, and soy sauce — need a hot stew.  	beef brisket, daikon, soy sauce
+1147	Feeling lazy. Only eggs and rice — quick meal idea.  	eggs, rice
+1148	Have chicken, chili, and garlic — want a fast dinner.  	chicken, chili, garlic
+1149	I have shrimp, scallions, and chili oil — want spicy seafood.  	shrimp, scallions, chili oil
+1150	Quick lunch idea with pork ribs and soy sauce.  	pork ribs, soy sauce
+1151	I have beef and black beans — want Chinese black bean beef.  	beef, black beans
+1152	Got chicken, soy sauce, and garlic — classic home recipe?  	chicken, soy sauce, garlic
+1153	Need something sweet and savory with pork ribs and honey.  	pork ribs, honey
+1154	I have shrimp, chili, and garlic — want something bold and colorful.  	shrimp, chili, garlic
+1155	Just rice and soy sauce — how can I make it filling?  	rice, soy sauce
+1156	Have chicken, chili, and sesame oil — want spicy chicken.  	chicken, chili, sesame oil
+1157	Need comfort food with beef and soy sauce.  	beef, soy sauce
+1158	Cooking for family. Have shrimp and garlic — want stir-fried shrimp.  	shrimp, garlic
+1159	I have pork belly, ginger, and rice wine — want red-braised pork.  	pork belly, ginger, rice wine
+1160	Quick dinner with beef, chili, and garlic.  	beef, chili, garlic
+1161	Only noodles and soy sauce — can I make Chinese-style noodles?  	noodles, soy sauce
+1162	I have shrimp, garlic, and chili oil — want seafood stir-fry.  	shrimp, garlic, chili oil
+1163	Got chicken, soy sauce, and ginger — want simple home dish.  	chicken, soy sauce, ginger
+1164	Need sweet sticky dish with pork ribs and sugar.  	pork ribs, sugar
+1165	I have beef, chili, and onions — want bold stir-fry.  	beef, chili, onions
+1166	Cooking for friends. Have shrimp and chili — want seafood noodles.  	shrimp, chili
+1167	Only rice, soy sauce, and eggs — new idea?  	rice, soy sauce, eggs
+1168	I have chicken, garlic, and soy sauce — want savory stir-fry.  	chicken, garlic, soy sauce
+1169	Have pork ribs, ginger, and soy sauce — soup for dinner.  	pork ribs, ginger, soy sauce
+1170	Quick spicy meal with beef and chili.  	beef, chili
+1171	I have shrimp, scallions, and garlic — want fast seafood dish.  	shrimp, scallions, garlic
+1172	Got chicken, soy sauce, and sugar — want sweet wings.  	chicken, soy sauce, sugar
+1173	Need something rich with pork belly and soy sauce.  	pork belly, soy sauce
+1174	I have beef, garlic, and chili — want spicy dinner.  	beef, garlic, chili
+1175	Only noodles and soy sauce — comfort dish idea.  	noodles, soy sauce
+1176	Cooking for family. Have shrimp and garlic — seafood stir-fry.  	shrimp, garlic
+1177	I have chicken, chili, and soy sauce — need spicy quick dish.  	chicken, chili, soy sauce
+1178	Got pork ribs and honey — want sweet sticky ribs.  	pork ribs, honey
+1179	I have beef, onions, and soy sauce — want stir-fry dinner.  	beef, onions, soy sauce
+1180	Only eggs and rice — want classic fried rice.  	eggs, rice
+1181	I have shrimp, garlic, and chili — need spicy noodles.  	shrimp, garlic, chili
+1182	Cooking for guests. Have pork belly and soy sauce — fancy braised dish.  	pork belly, soy sauce
+1183	Have chicken wings, soy sauce, and honey — want sticky chicken.  	chicken wings, soy sauce, honey
+1184	Need a spicy meal with beef and chili.  	beef, chili
+1185	I have shrimp, garlic, and soy sauce — want seafood fried rice.  	shrimp, garlic, soy sauce
+1186	Got pork ribs and soy sauce — soup idea.  	pork ribs, soy sauce
+1187	Quick lunch with chicken, garlic, and chili.  	chicken, garlic, chili
+1188	I have beef, onions, and soy sauce — want takeout-style dish.  	beef, onions, soy sauce
+1189	Only noodles and soy sauce — want simple dinner.  	noodles, soy sauce
+1190	Cooking for family. Have shrimp, scallions, and chili oil — spicy seafood.  	shrimp, scallions, chili oil
+1191	Need comforting dish with pork ribs and ginger.  	pork ribs, ginger
+1192	I have chicken, soy sauce, and sugar — sweet and savory dish.  	chicken, soy sauce, sugar
+1193	Got shrimp, garlic, and chili — want seafood stir-fry.  	shrimp, garlic, chili
+1194	Quick dinner with beef and onions — something Chinese-style.  	beef, onions
+1195	I have pork, garlic, and chili — want fiery stir-fry.  	pork, garlic, chili
+1196	Only rice, soy sauce, and egg — need simple comfort meal.  	rice, soy sauce, egg
+1197	Cooking for friends. Have chicken and chili oil — want spicy dish.  	chicken, chili oil
+1198	I have beef, onions, and soy sauce — want easy stir-fry.  	beef, onions, soy sauce
+1199	Got shrimp, garlic, and scallions — want quick seafood.  	shrimp, garlic, scallions
+1200	Need sweet sticky dish with pork ribs and honey.  	pork ribs, honey
+1201	I have chicken, chili, and soy sauce — want spicy wings.  	chicken, chili, soy sauce
+1202	Got beef, chili oil, and garlic — need fiery stir-fry.  	beef, chili oil, garlic
+1203	Only noodles and soy sauce — simple night meal.  	noodles, soy sauce
+1204	I have shrimp, garlic, and soy sauce — want seafood noodles.  	shrimp, garlic, soy sauce
+1205	Cooking for family. Have pork ribs, soy sauce, and sugar — home-style dish.  	pork ribs, soy sauce, sugar
+1206	I have chicken wings, honey, and soy sauce — sweet sticky wings.  	chicken wings, honey, soy sauce
+1207	Got beef, onions, and soy sauce — want fast stir-fry.  	beef, onions, soy sauce
+1208	Only eggs and rice — easy meal idea?  	eggs, rice
+1209	Have shrimp, garlic, and chili oil — want spicy stir-fry.  	shrimp, garlic, chili oil
+1210	Need comfort food with pork belly, garlic, and soy sauce.  	pork belly, garlic, soy sauce
+1211	I have chicken, soy sauce, and ginger — want warm dinner.  	chicken, soy sauce, ginger
+1212	Got beef, chili, and garlic — spicy home meal.  	beef, chili, garlic
+1213	Quick recipe with shrimp, scallions, and chili.  	shrimp, scallions, chili
+1214	Only noodles and soy sauce — need fast dinner.  	noodles, soy sauce
+1215	Cooking for friends. Have pork ribs and honey — want sweet ribs.  	pork ribs, honey
+1216	I have chicken, garlic, and soy sauce — want homestyle dish.  	chicken, garlic, soy sauce
+1217	Got beef, onions, and chili — want spicy stir-fry.  	beef, onions, chili
+1218	Only rice, eggs, and soy sauce — fried rice idea.  	eggs, rice, soy sauce
+1219	Cooking for family. Have shrimp and chili — want seafood dish.  	shrimp, chili
+1220	I have pork belly, soy sauce, and sugar — want braised pork.  	pork belly, soy sauce, sugar
+1221	Got chicken, chili, and garlic — spicy quick meal.  	chicken, chili, garlic
+1222	Need sweet savory dish with pork ribs and honey.  	pork ribs, honey
+1223	I have beef, onions, and soy sauce — want restaurant-style meal.  	beef, onions, soy sauce
+1224	Got shrimp, garlic, and chili — want seafood stir-fry.  	shrimp, garlic, chili
+1225	Only noodles and soy sauce — easy comfort food.  	noodles, soy sauce
+1226	Cooking for myself. Have chicken, soy sauce, and sugar — need simple dish.  	chicken, soy sauce, sugar
