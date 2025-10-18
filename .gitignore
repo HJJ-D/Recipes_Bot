@@ -1,0 +1,9 @@
+# 环境变量文件
+.env
+
+# Gradio 的缓存或配置目录
+.gradio/
+
+# 向量数据库目录
+vector_db/
+vector_new_db/
